@@ -1,0 +1,2058 @@
+{
+    "clip_id": "635b8d57-e6a7-4455-828c-43d8d1e943d1",
+    "base_url": "../../../range/avf/",
+    "video": [
+        {
+            "id": "ccc66a9b-25f3-4f2b-9ca0-36f451760f65",
+            "avg_id": "635b8d57",
+            "base_url": "",
+            "format": "dash",
+            "mime_type": "video/mp4",
+            "codecs": "avc1.64002A",
+            "bitrate": 2902000,
+            "avg_bitrate": 1751000,
+            "duration": 236.24,
+            "framerate": 25,
+            "width": 1920,
+            "height": 1080,
+            "max_segment_duration": 7,
+            "init_segment": "AAAAIGZ0eXBkYXNoAAAAAGRhc2htcDQybXA0MWlzbzYAAAMhbW9vdgAAAGxtdmhkAAAAAOEbn3LhG59yAAAAGQAAAAAAAQAAAQAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAACFpb2RzAAAAABCAgIAQAE////9//w6AgIAEAAAAAQAAAlB0cmFrAAAAXHRraGQAAAAH4RufcuEbn3IAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAABAAAAAB4AAAAQ4AAAAAAAkZWR0cwAAABxlbHN0AAAAAAAAAAEAAAAAAAAAAwABAAAAAAHIbWRpYQAAACBtZGhkAAAAAOEbn3LhG59yAAAAGQAAAABVxAAAAAAANmhkbHIAAAAAAAAAAHZpZGUAAAAAAAAAAAAAAABMLVNNQVNIIFZpZGVvIEhhbmRsZXIAAAABam1pbmYAAAAUdm1oZAAAAAEAAAAAAAAAAAAAACRkaW5mAAAAHGRyZWYAAAAAAAAAAQAAAAx1cmwgAAAAAQAAASpzdGJsAAAAsnN0c2QAAAAAAAAAAQAAAKJhdmMxAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAB4AEOABIAAAASAAAAAAAAAABCkFWQyBDb2RpbmcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP//AAAAOWF2Y0MBZAAq/+EAHWdkACqs2YB4AiflmoCAgKAAAAMAIAAABkHjBjNAAQAFaOl7LIv9+PgAAAAAE2NvbHJuY2x4AAEAAQABAAAAABBzdHRzAAAAAAAAAAAAAAAQc3RzYwAAAAAAAAAAAAAAFHN0c3oAAAAAAAAAAAAAAAAAAAAQc3RjbwAAAAAAAAAAAAAAGHNncGQBAAAAcm9sbAAAAAIAAAAAAAAAFHNiZ3AAAAAAcm9sbAAAAAAAAAA8bXZleAAAABRtZWhkAQAAAAAAAAAAABcSAAAAIHRyZXgAAAAAAAAAAQAAAAEAAAABAAAAAAABAAA=",
+            "index_segment": "ccc66a9b-25f3-4f2b-9ca0-36f451760f65.mp4?pathsig=8c953e4f~MYZe4c8blCV5KcnXO16ZJwIJUre6xKTvi9p8LcpiRVc&r=dXMtY2VudHJhbDE%3D&range=833-1332",
+            "segments": [
+                {
+                    "start": 0,
+                    "end": 6.08,
+                    "url": "ccc66a9b-25f3-4f2b-9ca0-36f451760f65.mp4?pathsig=8c953e4f~MYZe4c8blCV5KcnXO16ZJwIJUre6xKTvi9p8LcpiRVc&r=dXMtY2VudHJhbDE%3D&range=1333-2207159",
+                    "size": 2205826
+                },
+                {
+                    "start": 6.08,
+                    "end": 12.16,
+                    "url": "ccc66a9b-25f3-4f2b-9ca0-36f451760f65.mp4?pathsig=8c953e4f~MYZe4c8blCV5KcnXO16ZJwIJUre6xKTvi9p8LcpiRVc&r=dXMtY2VudHJhbDE%3D&range=2207160-3944342",
+                    "size": 1737182
+                },
+                {
+                    "start": 12.16,
+                    "end": 18.24,
+                    "url": "ccc66a9b-25f3-4f2b-9ca0-36f451760f65.mp4?pathsig=8c953e4f~MYZe4c8blCV5KcnXO16ZJwIJUre6xKTvi9p8LcpiRVc&r=dXMtY2VudHJhbDE%3D&range=3944343-5517020",
+                    "size": 1572677
+                },
+                {
+                    "start": 18.24,
+                    "end": 24.32,
+                    "url": "ccc66a9b-25f3-4f2b-9ca0-36f451760f65.mp4?pathsig=8c953e4f~MYZe4c8blCV5KcnXO16ZJwIJUre6xKTvi9p8LcpiRVc&r=dXMtY2VudHJhbDE%3D&range=5517021-7035301",
+                    "size": 1518280
+                },
+                {
+                    "start": 24.32,
+                    "end": 30.4,
+                    "url": "ccc66a9b-25f3-4f2b-9ca0-36f451760f65.mp4?pathsig=8c953e4f~MYZe4c8blCV5KcnXO16ZJwIJUre6xKTvi9p8LcpiRVc&r=dXMtY2VudHJhbDE%3D&range=7035302-8607088",
+                    "size": 1571786
+                },
+                {
+                    "start": 30.4,
+                    "end": 36.48,
+                    "url": "ccc66a9b-25f3-4f2b-9ca0-36f451760f65.mp4?pathsig=8c953e4f~MYZe4c8blCV5KcnXO16ZJwIJUre6xKTvi9p8LcpiRVc&r=dXMtY2VudHJhbDE%3D&range=8607089-10048049",
+                    "size": 1440960
+                },
+                {
+                    "start": 36.48,
+                    "end": 42.56,
+                    "url": "ccc66a9b-25f3-4f2b-9ca0-36f451760f65.mp4?pathsig=8c953e4f~MYZe4c8blCV5KcnXO16ZJwIJUre6xKTvi9p8LcpiRVc&r=dXMtY2VudHJhbDE%3D&range=10048050-11566340",
+                    "size": 1518290
+                },
+                {
+                    "start": 42.56,
+                    "end": 48.64,
+                    "url": "ccc66a9b-25f3-4f2b-9ca0-36f451760f65.mp4?pathsig=8c953e4f~MYZe4c8blCV5KcnXO16ZJwIJUre6xKTvi9p8LcpiRVc&r=dXMtY2VudHJhbDE%3D&range=11566341-13103216",
+                    "size": 1536875
+                },
+                {
+                    "start": 48.64,
+                    "end": 54.72,
+                    "url": "ccc66a9b-25f3-4f2b-9ca0-36f451760f65.mp4?pathsig=8c953e4f~MYZe4c8blCV5KcnXO16ZJwIJUre6xKTvi9p8LcpiRVc&r=dXMtY2VudHJhbDE%3D&range=13103217-14681108",
+                    "size": 1577891
+                },
+                {
+                    "start": 54.72,
+                    "end": 60,
+                    "url": "ccc66a9b-25f3-4f2b-9ca0-36f451760f65.mp4?pathsig=8c953e4f~MYZe4c8blCV5KcnXO16ZJwIJUre6xKTvi9p8LcpiRVc&r=dXMtY2VudHJhbDE%3D&range=14681109-16026407",
+                    "size": 1345298
+                },
+                {
+                    "start": 60,
+                    "end": 66.08,
+                    "url": "ccc66a9b-25f3-4f2b-9ca0-36f451760f65.mp4?pathsig=8c953e4f~MYZe4c8blCV5KcnXO16ZJwIJUre6xKTvi9p8LcpiRVc&r=dXMtY2VudHJhbDE%3D&range=16026408-17474590",
+                    "size": 1448182
+                },
+                {
+                    "start": 66.08,
+                    "end": 72.16,
+                    "url": "ccc66a9b-25f3-4f2b-9ca0-36f451760f65.mp4?pathsig=8c953e4f~MYZe4c8blCV5KcnXO16ZJwIJUre6xKTvi9p8LcpiRVc&r=dXMtY2VudHJhbDE%3D&range=17474591-19018761",
+                    "size": 1544170
+                },
+                {
+                    "start": 72.16,
+                    "end": 78.24,
+                    "url": "ccc66a9b-25f3-4f2b-9ca0-36f451760f65.mp4?pathsig=8c953e4f~MYZe4c8blCV5KcnXO16ZJwIJUre6xKTvi9p8LcpiRVc&r=dXMtY2VudHJhbDE%3D&range=19018762-20583168",
+                    "size": 1564406
+                },
+                {
+                    "start": 78.24,
+                    "end": 84.32,
+                    "url": "ccc66a9b-25f3-4f2b-9ca0-36f451760f65.mp4?pathsig=8c953e4f~MYZe4c8blCV5KcnXO16ZJwIJUre6xKTvi9p8LcpiRVc&r=dXMtY2VudHJhbDE%3D&range=20583169-22081197",
+                    "size": 1498028
+                },
+                {
+                    "start": 84.32,
+                    "end": 90.4,
+                    "url": "ccc66a9b-25f3-4f2b-9ca0-36f451760f65.mp4?pathsig=8c953e4f~MYZe4c8blCV5KcnXO16ZJwIJUre6xKTvi9p8LcpiRVc&r=dXMtY2VudHJhbDE%3D&range=22081198-23754775",
+                    "size": 1673577
+                },
+                {
+                    "start": 90.4,
+                    "end": 96.48,
+                    "url": "ccc66a9b-25f3-4f2b-9ca0-36f451760f65.mp4?pathsig=8c953e4f~MYZe4c8blCV5KcnXO16ZJwIJUre6xKTvi9p8LcpiRVc&r=dXMtY2VudHJhbDE%3D&range=23754776-25533573",
+                    "size": 1778797
+                },
+                {
+                    "start": 96.48,
+                    "end": 102.56,
+                    "url": "ccc66a9b-25f3-4f2b-9ca0-36f451760f65.mp4?pathsig=8c953e4f~MYZe4c8blCV5KcnXO16ZJwIJUre6xKTvi9p8LcpiRVc&r=dXMtY2VudHJhbDE%3D&range=25533574-27184366",
+                    "size": 1650792
+                },
+                {
+                    "start": 102.56,
+                    "end": 108.64,
+                    "url": "ccc66a9b-25f3-4f2b-9ca0-36f451760f65.mp4?pathsig=8c953e4f~MYZe4c8blCV5KcnXO16ZJwIJUre6xKTvi9p8LcpiRVc&r=dXMtY2VudHJhbDE%3D&range=27184367-28742032",
+                    "size": 1557665
+                },
+                {
+                    "start": 108.64,
+                    "end": 114.72,
+                    "url": "ccc66a9b-25f3-4f2b-9ca0-36f451760f65.mp4?pathsig=8c953e4f~MYZe4c8blCV5KcnXO16ZJwIJUre6xKTvi9p8LcpiRVc&r=dXMtY2VudHJhbDE%3D&range=28742033-30244546",
+                    "size": 1502513
+                },
+                {
+                    "start": 114.72,
+                    "end": 120,
+                    "url": "ccc66a9b-25f3-4f2b-9ca0-36f451760f65.mp4?pathsig=8c953e4f~MYZe4c8blCV5KcnXO16ZJwIJUre6xKTvi9p8LcpiRVc&r=dXMtY2VudHJhbDE%3D&range=30244547-31545451",
+                    "size": 1300904
+                },
+                {
+                    "start": 120,
+                    "end": 126.08,
+                    "url": "ccc66a9b-25f3-4f2b-9ca0-36f451760f65.mp4?pathsig=8c953e4f~MYZe4c8blCV5KcnXO16ZJwIJUre6xKTvi9p8LcpiRVc&r=dXMtY2VudHJhbDE%3D&range=31545452-32989807",
+                    "size": 1444355
+                },
+                {
+                    "start": 126.08,
+                    "end": 132.16,
+                    "url": "ccc66a9b-25f3-4f2b-9ca0-36f451760f65.mp4?pathsig=8c953e4f~MYZe4c8blCV5KcnXO16ZJwIJUre6xKTvi9p8LcpiRVc&r=dXMtY2VudHJhbDE%3D&range=32989808-34164451",
+                    "size": 1174643
+                },
+                {
+                    "start": 132.16,
+                    "end": 138.24,
+                    "url": "ccc66a9b-25f3-4f2b-9ca0-36f451760f65.mp4?pathsig=8c953e4f~MYZe4c8blCV5KcnXO16ZJwIJUre6xKTvi9p8LcpiRVc&r=dXMtY2VudHJhbDE%3D&range=34164452-34416528",
+                    "size": 252076
+                },
+                {
+                    "start": 138.24,
+                    "end": 144.32,
+                    "url": "ccc66a9b-25f3-4f2b-9ca0-36f451760f65.mp4?pathsig=8c953e4f~MYZe4c8blCV5KcnXO16ZJwIJUre6xKTvi9p8LcpiRVc&r=dXMtY2VudHJhbDE%3D&range=34416529-34718442",
+                    "size": 301913
+                },
+                {
+                    "start": 144.32,
+                    "end": 150.4,
+                    "url": "ccc66a9b-25f3-4f2b-9ca0-36f451760f65.mp4?pathsig=8c953e4f~MYZe4c8blCV5KcnXO16ZJwIJUre6xKTvi9p8LcpiRVc&r=dXMtY2VudHJhbDE%3D&range=34718443-35119384",
+                    "size": 400941
+                },
+                {
+                    "start": 150.4,
+                    "end": 156.48,
+                    "url": "ccc66a9b-25f3-4f2b-9ca0-36f451760f65.mp4?pathsig=8c953e4f~MYZe4c8blCV5KcnXO16ZJwIJUre6xKTvi9p8LcpiRVc&r=dXMtY2VudHJhbDE%3D&range=35119385-35853716",
+                    "size": 734331
+                },
+                {
+                    "start": 156.48,
+                    "end": 162.56,
+                    "url": "ccc66a9b-25f3-4f2b-9ca0-36f451760f65.mp4?pathsig=8c953e4f~MYZe4c8blCV5KcnXO16ZJwIJUre6xKTvi9p8LcpiRVc&r=dXMtY2VudHJhbDE%3D&range=35853717-36294576",
+                    "size": 440859
+                },
+                {
+                    "start": 162.56,
+                    "end": 168.64,
+                    "url": "ccc66a9b-25f3-4f2b-9ca0-36f451760f65.mp4?pathsig=8c953e4f~MYZe4c8blCV5KcnXO16ZJwIJUre6xKTvi9p8LcpiRVc&r=dXMtY2VudHJhbDE%3D&range=36294577-36907232",
+                    "size": 612655
+                },
+                {
+                    "start": 168.64,
+                    "end": 174.72,
+                    "url": "ccc66a9b-25f3-4f2b-9ca0-36f451760f65.mp4?pathsig=8c953e4f~MYZe4c8blCV5KcnXO16ZJwIJUre6xKTvi9p8LcpiRVc&r=dXMtY2VudHJhbDE%3D&range=36907233-37134935",
+                    "size": 227702
+                },
+                {
+                    "start": 174.72,
+                    "end": 180.8,
+                    "url": "ccc66a9b-25f3-4f2b-9ca0-36f451760f65.mp4?pathsig=8c953e4f~MYZe4c8blCV5KcnXO16ZJwIJUre6xKTvi9p8LcpiRVc&r=dXMtY2VudHJhbDE%3D&range=37134936-38421506",
+                    "size": 1286570
+                },
+                {
+                    "start": 180.8,
+                    "end": 186.88,
+                    "url": "ccc66a9b-25f3-4f2b-9ca0-36f451760f65.mp4?pathsig=8c953e4f~MYZe4c8blCV5KcnXO16ZJwIJUre6xKTvi9p8LcpiRVc&r=dXMtY2VudHJhbDE%3D&range=38421507-39072016",
+                    "size": 650509
+                },
+                {
+                    "start": 186.88,
+                    "end": 192.96,
+                    "url": "ccc66a9b-25f3-4f2b-9ca0-36f451760f65.mp4?pathsig=8c953e4f~MYZe4c8blCV5KcnXO16ZJwIJUre6xKTvi9p8LcpiRVc&r=dXMtY2VudHJhbDE%3D&range=39072017-40537885",
+                    "size": 1465868
+                },
+                {
+                    "start": 192.96,
+                    "end": 199.04,
+                    "url": "ccc66a9b-25f3-4f2b-9ca0-36f451760f65.mp4?pathsig=8c953e4f~MYZe4c8blCV5KcnXO16ZJwIJUre6xKTvi9p8LcpiRVc&r=dXMtY2VudHJhbDE%3D&range=40537886-41453500",
+                    "size": 915614
+                },
+                {
+                    "start": 199.04,
+                    "end": 205.12,
+                    "url": "ccc66a9b-25f3-4f2b-9ca0-36f451760f65.mp4?pathsig=8c953e4f~MYZe4c8blCV5KcnXO16ZJwIJUre6xKTvi9p8LcpiRVc&r=dXMtY2VudHJhbDE%3D&range=41453501-43013011",
+                    "size": 1559510
+                },
+                {
+                    "start": 205.12,
+                    "end": 211.2,
+                    "url": "ccc66a9b-25f3-4f2b-9ca0-36f451760f65.mp4?pathsig=8c953e4f~MYZe4c8blCV5KcnXO16ZJwIJUre6xKTvi9p8LcpiRVc&r=dXMtY2VudHJhbDE%3D&range=43013012-44485890",
+                    "size": 1472878
+                },
+                {
+                    "start": 211.2,
+                    "end": 217.28,
+                    "url": "ccc66a9b-25f3-4f2b-9ca0-36f451760f65.mp4?pathsig=8c953e4f~MYZe4c8blCV5KcnXO16ZJwIJUre6xKTvi9p8LcpiRVc&r=dXMtY2VudHJhbDE%3D&range=44485891-45912730",
+                    "size": 1426839
+                },
+                {
+                    "start": 217.28,
+                    "end": 223.36,
+                    "url": "ccc66a9b-25f3-4f2b-9ca0-36f451760f65.mp4?pathsig=8c953e4f~MYZe4c8blCV5KcnXO16ZJwIJUre6xKTvi9p8LcpiRVc&r=dXMtY2VudHJhbDE%3D&range=45912731-47553230",
+                    "size": 1640499
+                },
+                {
+                    "start": 223.36,
+                    "end": 229.44,
+                    "url": "ccc66a9b-25f3-4f2b-9ca0-36f451760f65.mp4?pathsig=8c953e4f~MYZe4c8blCV5KcnXO16ZJwIJUre6xKTvi9p8LcpiRVc&r=dXMtY2VudHJhbDE%3D&range=47553231-49228867",
+                    "size": 1675636
+                },
+                {
+                    "start": 229.44,
+                    "end": 236.24,
+                    "url": "ccc66a9b-25f3-4f2b-9ca0-36f451760f65.mp4?pathsig=8c953e4f~MYZe4c8blCV5KcnXO16ZJwIJUre6xKTvi9p8LcpiRVc&r=dXMtY2VudHJhbDE%3D&range=49228868-51767310",
+                    "size": 2538442
+                }
+            ],
+            "AudioProvenance": 0
+        },
+        {
+            "id": "99572b6b-0db3-47f5-a758-11fbf423eda4",
+            "avg_id": "635b8d57",
+            "base_url": "",
+            "format": "dash",
+            "mime_type": "video/mp4",
+            "codecs": "avc1.64001F",
+            "bitrate": 971000,
+            "avg_bitrate": 662000,
+            "duration": 236.24,
+            "framerate": 25,
+            "width": 960,
+            "height": 540,
+            "max_segment_duration": 7,
+            "init_segment": "AAAAIGZ0eXBkYXNoAAAAAGRhc2htcDQybXA0MWlzbzYAAAMibW9vdgAAAGxtdmhkAAAAAOEbnzrhG586AAAAGQAAAAAAAQAAAQAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAACFpb2RzAAAAABCAgIAQAE////9//w6AgIAEAAAAAQAAAlF0cmFrAAAAXHRraGQAAAAH4RufOuEbnzoAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAABAAAAAA8AAAAIcAAAAAAAkZWR0cwAAABxlbHN0AAAAAAAAAAEAAAAAAAAAAwABAAAAAAHJbWRpYQAAACBtZGhkAAAAAOEbnzrhG586AAAAGQAAAABVxAAAAAAANmhkbHIAAAAAAAAAAHZpZGUAAAAAAAAAAAAAAABMLVNNQVNIIFZpZGVvIEhhbmRsZXIAAAABa21pbmYAAAAUdm1oZAAAAAEAAAAAAAAAAAAAACRkaW5mAAAAHGRyZWYAAAAAAAAAAQAAAAx1cmwgAAAAAQAAAStzdGJsAAAAs3N0c2QAAAAAAAAAAQAAAKNhdmMxAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAA8ACHABIAAAASAAAAAAAAAABCkFWQyBDb2RpbmcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP//AAAAOmF2Y0MBZAAf/+EAHWdkAB+sViQPARfuagwMDIAAAAMAgAAAGQeMGMTAAQAGaOiOyyLA/fj4AAAAABNjb2xybmNseAAGAAYABgAAAAAQc3R0cwAAAAAAAAAAAAAAEHN0c2MAAAAAAAAAAAAAABRzdHN6AAAAAAAAAAAAAAAAAAAAEHN0Y28AAAAAAAAAAAAAABhzZ3BkAQAAAHJvbGwAAAACAAAAAAAAABRzYmdwAAAAAHJvbGwAAAAAAAAAPG12ZXgAAAAUbWVoZAEAAAAAAAAAAAAXEgAAACB0cmV4AAAAAAAAAAEAAAABAAAAAQAAAAAAAQAA",
+            "index_segment": "99572b6b-0db3-47f5-a758-11fbf423eda4.mp4?pathsig=8c953e4f~xGlK9oxeNwTX8OiHuBgjdc-qJlAVxWKv57Q0psog2x8&r=dXMtZWFzdDE%3D&range=834-1333",
+            "segments": [
+                {
+                    "start": 0,
+                    "end": 6.08,
+                    "url": "99572b6b-0db3-47f5-a758-11fbf423eda4.mp4?pathsig=8c953e4f~xGlK9oxeNwTX8OiHuBgjdc-qJlAVxWKv57Q0psog2x8&r=dXMtZWFzdDE%3D&range=1334-738926",
+                    "size": 737592
+                },
+                {
+                    "start": 6.08,
+                    "end": 12.16,
+                    "url": "99572b6b-0db3-47f5-a758-11fbf423eda4.mp4?pathsig=8c953e4f~xGlK9oxeNwTX8OiHuBgjdc-qJlAVxWKv57Q0psog2x8&r=dXMtZWFzdDE%3D&range=738927-1386343",
+                    "size": 647416
+                },
+                {
+                    "start": 12.16,
+                    "end": 18.24,
+                    "url": "99572b6b-0db3-47f5-a758-11fbf423eda4.mp4?pathsig=8c953e4f~xGlK9oxeNwTX8OiHuBgjdc-qJlAVxWKv57Q0psog2x8&r=dXMtZWFzdDE%3D&range=1386344-1975942",
+                    "size": 589598
+                },
+                {
+                    "start": 18.24,
+                    "end": 24.32,
+                    "url": "99572b6b-0db3-47f5-a758-11fbf423eda4.mp4?pathsig=8c953e4f~xGlK9oxeNwTX8OiHuBgjdc-qJlAVxWKv57Q0psog2x8&r=dXMtZWFzdDE%3D&range=1975943-2549681",
+                    "size": 573738
+                },
+                {
+                    "start": 24.32,
+                    "end": 30.4,
+                    "url": "99572b6b-0db3-47f5-a758-11fbf423eda4.mp4?pathsig=8c953e4f~xGlK9oxeNwTX8OiHuBgjdc-qJlAVxWKv57Q0psog2x8&r=dXMtZWFzdDE%3D&range=2549682-3132281",
+                    "size": 582599
+                },
+                {
+                    "start": 30.4,
+                    "end": 36.48,
+                    "url": "99572b6b-0db3-47f5-a758-11fbf423eda4.mp4?pathsig=8c953e4f~xGlK9oxeNwTX8OiHuBgjdc-qJlAVxWKv57Q0psog2x8&r=dXMtZWFzdDE%3D&range=3132282-3656960",
+                    "size": 524678
+                },
+                {
+                    "start": 36.48,
+                    "end": 42.56,
+                    "url": "99572b6b-0db3-47f5-a758-11fbf423eda4.mp4?pathsig=8c953e4f~xGlK9oxeNwTX8OiHuBgjdc-qJlAVxWKv57Q0psog2x8&r=dXMtZWFzdDE%3D&range=3656961-4231855",
+                    "size": 574894
+                },
+                {
+                    "start": 42.56,
+                    "end": 48.64,
+                    "url": "99572b6b-0db3-47f5-a758-11fbf423eda4.mp4?pathsig=8c953e4f~xGlK9oxeNwTX8OiHuBgjdc-qJlAVxWKv57Q0psog2x8&r=dXMtZWFzdDE%3D&range=4231856-4791366",
+                    "size": 559510
+                },
+                {
+                    "start": 48.64,
+                    "end": 54.72,
+                    "url": "99572b6b-0db3-47f5-a758-11fbf423eda4.mp4?pathsig=8c953e4f~xGlK9oxeNwTX8OiHuBgjdc-qJlAVxWKv57Q0psog2x8&r=dXMtZWFzdDE%3D&range=4791367-5387872",
+                    "size": 596505
+                },
+                {
+                    "start": 54.72,
+                    "end": 60,
+                    "url": "99572b6b-0db3-47f5-a758-11fbf423eda4.mp4?pathsig=8c953e4f~xGlK9oxeNwTX8OiHuBgjdc-qJlAVxWKv57Q0psog2x8&r=dXMtZWFzdDE%3D&range=5387873-5893536",
+                    "size": 505663
+                },
+                {
+                    "start": 60,
+                    "end": 66.08,
+                    "url": "99572b6b-0db3-47f5-a758-11fbf423eda4.mp4?pathsig=8c953e4f~xGlK9oxeNwTX8OiHuBgjdc-qJlAVxWKv57Q0psog2x8&r=dXMtZWFzdDE%3D&range=5893537-6424350",
+                    "size": 530813
+                },
+                {
+                    "start": 66.08,
+                    "end": 72.16,
+                    "url": "99572b6b-0db3-47f5-a758-11fbf423eda4.mp4?pathsig=8c953e4f~xGlK9oxeNwTX8OiHuBgjdc-qJlAVxWKv57Q0psog2x8&r=dXMtZWFzdDE%3D&range=6424351-6989966",
+                    "size": 565615
+                },
+                {
+                    "start": 72.16,
+                    "end": 78.24,
+                    "url": "99572b6b-0db3-47f5-a758-11fbf423eda4.mp4?pathsig=8c953e4f~xGlK9oxeNwTX8OiHuBgjdc-qJlAVxWKv57Q0psog2x8&r=dXMtZWFzdDE%3D&range=6989967-7571502",
+                    "size": 581535
+                },
+                {
+                    "start": 78.24,
+                    "end": 84.32,
+                    "url": "99572b6b-0db3-47f5-a758-11fbf423eda4.mp4?pathsig=8c953e4f~xGlK9oxeNwTX8OiHuBgjdc-qJlAVxWKv57Q0psog2x8&r=dXMtZWFzdDE%3D&range=7571503-8137318",
+                    "size": 565815
+                },
+                {
+                    "start": 84.32,
+                    "end": 90.4,
+                    "url": "99572b6b-0db3-47f5-a758-11fbf423eda4.mp4?pathsig=8c953e4f~xGlK9oxeNwTX8OiHuBgjdc-qJlAVxWKv57Q0psog2x8&r=dXMtZWFzdDE%3D&range=8137319-8772338",
+                    "size": 635019
+                },
+                {
+                    "start": 90.4,
+                    "end": 96.48,
+                    "url": "99572b6b-0db3-47f5-a758-11fbf423eda4.mp4?pathsig=8c953e4f~xGlK9oxeNwTX8OiHuBgjdc-qJlAVxWKv57Q0psog2x8&r=dXMtZWFzdDE%3D&range=8772339-9457418",
+                    "size": 685079
+                },
+                {
+                    "start": 96.48,
+                    "end": 102.56,
+                    "url": "99572b6b-0db3-47f5-a758-11fbf423eda4.mp4?pathsig=8c953e4f~xGlK9oxeNwTX8OiHuBgjdc-qJlAVxWKv57Q0psog2x8&r=dXMtZWFzdDE%3D&range=9457419-10082601",
+                    "size": 625182
+                },
+                {
+                    "start": 102.56,
+                    "end": 108.64,
+                    "url": "99572b6b-0db3-47f5-a758-11fbf423eda4.mp4?pathsig=8c953e4f~xGlK9oxeNwTX8OiHuBgjdc-qJlAVxWKv57Q0psog2x8&r=dXMtZWFzdDE%3D&range=10082602-10648740",
+                    "size": 566138
+                },
+                {
+                    "start": 108.64,
+                    "end": 114.72,
+                    "url": "99572b6b-0db3-47f5-a758-11fbf423eda4.mp4?pathsig=8c953e4f~xGlK9oxeNwTX8OiHuBgjdc-qJlAVxWKv57Q0psog2x8&r=dXMtZWFzdDE%3D&range=10648741-11218467",
+                    "size": 569726
+                },
+                {
+                    "start": 114.72,
+                    "end": 120,
+                    "url": "99572b6b-0db3-47f5-a758-11fbf423eda4.mp4?pathsig=8c953e4f~xGlK9oxeNwTX8OiHuBgjdc-qJlAVxWKv57Q0psog2x8&r=dXMtZWFzdDE%3D&range=11218468-11695037",
+                    "size": 476569
+                },
+                {
+                    "start": 120,
+                    "end": 126.08,
+                    "url": "99572b6b-0db3-47f5-a758-11fbf423eda4.mp4?pathsig=8c953e4f~xGlK9oxeNwTX8OiHuBgjdc-qJlAVxWKv57Q0psog2x8&r=dXMtZWFzdDE%3D&range=11695038-12209615",
+                    "size": 514577
+                },
+                {
+                    "start": 126.08,
+                    "end": 132.16,
+                    "url": "99572b6b-0db3-47f5-a758-11fbf423eda4.mp4?pathsig=8c953e4f~xGlK9oxeNwTX8OiHuBgjdc-qJlAVxWKv57Q0psog2x8&r=dXMtZWFzdDE%3D&range=12209616-12679793",
+                    "size": 470177
+                },
+                {
+                    "start": 132.16,
+                    "end": 138.24,
+                    "url": "99572b6b-0db3-47f5-a758-11fbf423eda4.mp4?pathsig=8c953e4f~xGlK9oxeNwTX8OiHuBgjdc-qJlAVxWKv57Q0psog2x8&r=dXMtZWFzdDE%3D&range=12679794-12904377",
+                    "size": 224583
+                },
+                {
+                    "start": 138.24,
+                    "end": 144.32,
+                    "url": "99572b6b-0db3-47f5-a758-11fbf423eda4.mp4?pathsig=8c953e4f~xGlK9oxeNwTX8OiHuBgjdc-qJlAVxWKv57Q0psog2x8&r=dXMtZWFzdDE%3D&range=12904378-13155497",
+                    "size": 251119
+                },
+                {
+                    "start": 144.32,
+                    "end": 150.4,
+                    "url": "99572b6b-0db3-47f5-a758-11fbf423eda4.mp4?pathsig=8c953e4f~xGlK9oxeNwTX8OiHuBgjdc-qJlAVxWKv57Q0psog2x8&r=dXMtZWFzdDE%3D&range=13155498-13402870",
+                    "size": 247372
+                },
+                {
+                    "start": 150.4,
+                    "end": 156.48,
+                    "url": "99572b6b-0db3-47f5-a758-11fbf423eda4.mp4?pathsig=8c953e4f~xGlK9oxeNwTX8OiHuBgjdc-qJlAVxWKv57Q0psog2x8&r=dXMtZWFzdDE%3D&range=13402871-13754278",
+                    "size": 351407
+                },
+                {
+                    "start": 156.48,
+                    "end": 162.56,
+                    "url": "99572b6b-0db3-47f5-a758-11fbf423eda4.mp4?pathsig=8c953e4f~xGlK9oxeNwTX8OiHuBgjdc-qJlAVxWKv57Q0psog2x8&r=dXMtZWFzdDE%3D&range=13754279-13952525",
+                    "size": 198246
+                },
+                {
+                    "start": 162.56,
+                    "end": 168.64,
+                    "url": "99572b6b-0db3-47f5-a758-11fbf423eda4.mp4?pathsig=8c953e4f~xGlK9oxeNwTX8OiHuBgjdc-qJlAVxWKv57Q0psog2x8&r=dXMtZWFzdDE%3D&range=13952526-14243981",
+                    "size": 291455
+                },
+                {
+                    "start": 168.64,
+                    "end": 174.72,
+                    "url": "99572b6b-0db3-47f5-a758-11fbf423eda4.mp4?pathsig=8c953e4f~xGlK9oxeNwTX8OiHuBgjdc-qJlAVxWKv57Q0psog2x8&r=dXMtZWFzdDE%3D&range=14243982-14353245",
+                    "size": 109263
+                },
+                {
+                    "start": 174.72,
+                    "end": 180.8,
+                    "url": "99572b6b-0db3-47f5-a758-11fbf423eda4.mp4?pathsig=8c953e4f~xGlK9oxeNwTX8OiHuBgjdc-qJlAVxWKv57Q0psog2x8&r=dXMtZWFzdDE%3D&range=14353246-14831418",
+                    "size": 478172
+                },
+                {
+                    "start": 180.8,
+                    "end": 186.88,
+                    "url": "99572b6b-0db3-47f5-a758-11fbf423eda4.mp4?pathsig=8c953e4f~xGlK9oxeNwTX8OiHuBgjdc-qJlAVxWKv57Q0psog2x8&r=dXMtZWFzdDE%3D&range=14831419-15048155",
+                    "size": 216736
+                },
+                {
+                    "start": 186.88,
+                    "end": 192.96,
+                    "url": "99572b6b-0db3-47f5-a758-11fbf423eda4.mp4?pathsig=8c953e4f~xGlK9oxeNwTX8OiHuBgjdc-qJlAVxWKv57Q0psog2x8&r=dXMtZWFzdDE%3D&range=15048156-15471686",
+                    "size": 423530
+                },
+                {
+                    "start": 192.96,
+                    "end": 199.04,
+                    "url": "99572b6b-0db3-47f5-a758-11fbf423eda4.mp4?pathsig=8c953e4f~xGlK9oxeNwTX8OiHuBgjdc-qJlAVxWKv57Q0psog2x8&r=dXMtZWFzdDE%3D&range=15471687-15800779",
+                    "size": 329092
+                },
+                {
+                    "start": 199.04,
+                    "end": 205.12,
+                    "url": "99572b6b-0db3-47f5-a758-11fbf423eda4.mp4?pathsig=8c953e4f~xGlK9oxeNwTX8OiHuBgjdc-qJlAVxWKv57Q0psog2x8&r=dXMtZWFzdDE%3D&range=15800780-16395221",
+                    "size": 594441
+                },
+                {
+                    "start": 205.12,
+                    "end": 211.2,
+                    "url": "99572b6b-0db3-47f5-a758-11fbf423eda4.mp4?pathsig=8c953e4f~xGlK9oxeNwTX8OiHuBgjdc-qJlAVxWKv57Q0psog2x8&r=dXMtZWFzdDE%3D&range=16395222-16953091",
+                    "size": 557869
+                },
+                {
+                    "start": 211.2,
+                    "end": 217.28,
+                    "url": "99572b6b-0db3-47f5-a758-11fbf423eda4.mp4?pathsig=8c953e4f~xGlK9oxeNwTX8OiHuBgjdc-qJlAVxWKv57Q0psog2x8&r=dXMtZWFzdDE%3D&range=16953092-17484196",
+                    "size": 531104
+                },
+                {
+                    "start": 217.28,
+                    "end": 223.36,
+                    "url": "99572b6b-0db3-47f5-a758-11fbf423eda4.mp4?pathsig=8c953e4f~xGlK9oxeNwTX8OiHuBgjdc-qJlAVxWKv57Q0psog2x8&r=dXMtZWFzdDE%3D&range=17484197-18090659",
+                    "size": 606462
+                },
+                {
+                    "start": 223.36,
+                    "end": 229.44,
+                    "url": "99572b6b-0db3-47f5-a758-11fbf423eda4.mp4?pathsig=8c953e4f~xGlK9oxeNwTX8OiHuBgjdc-qJlAVxWKv57Q0psog2x8&r=dXMtZWFzdDE%3D&range=18090660-18731739",
+                    "size": 641079
+                },
+                {
+                    "start": 229.44,
+                    "end": 236.24,
+                    "url": "99572b6b-0db3-47f5-a758-11fbf423eda4.mp4?pathsig=8c953e4f~xGlK9oxeNwTX8OiHuBgjdc-qJlAVxWKv57Q0psog2x8&r=dXMtZWFzdDE%3D&range=18731740-19570852",
+                    "size": 839112
+                }
+            ],
+            "AudioProvenance": 0
+        },
+        {
+            "id": "312e3194-0210-4efd-bffa-17ec1759a7e2",
+            "avg_id": "635b8d57",
+            "base_url": "",
+            "format": "dash",
+            "mime_type": "video/mp4",
+            "codecs": "avc1.640020",
+            "bitrate": 1355000,
+            "avg_bitrate": 896000,
+            "duration": 236.24,
+            "framerate": 25,
+            "width": 1280,
+            "height": 720,
+            "max_segment_duration": 7,
+            "init_segment": "AAAAIGZ0eXBkYXNoAAAAAGRhc2htcDQybXA0MWlzbzYAAAMfbW9vdgAAAGxtdmhkAAAAAOEbnznhG585AAAAGQAAAAAAAQAAAQAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAACFpb2RzAAAAABCAgIAQAE////9//w6AgIAEAAAAAQAAAk50cmFrAAAAXHRraGQAAAAH4RufOeEbnzkAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAABAAAAABQAAAALQAAAAAAAkZWR0cwAAABxlbHN0AAAAAAAAAAEAAAAAAAAAAwABAAAAAAHGbWRpYQAAACBtZGhkAAAAAOEbnznhG585AAAAGQAAAABVxAAAAAAANmhkbHIAAAAAAAAAAHZpZGUAAAAAAAAAAAAAAABMLVNNQVNIIFZpZGVvIEhhbmRsZXIAAAABaG1pbmYAAAAUdm1oZAAAAAEAAAAAAAAAAAAAACRkaW5mAAAAHGRyZWYAAAAAAAAAAQAAAAx1cmwgAAAAAQAAAShzdGJsAAAAsHN0c2QAAAAAAAAAAQAAAKBhdmMxAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAABQAC0ABIAAAASAAAAAAAAAABCkFWQyBDb2RpbmcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP//AAAAN2F2Y0MBZAAg/+EAG2dkACCs2YBQBbpqAgICgAAAAwCAAAAZB4wYzQEABWjpeyyL/fj4AAAAABNjb2xybmNseAABAAEAAQAAAAAQc3R0cwAAAAAAAAAAAAAAEHN0c2MAAAAAAAAAAAAAABRzdHN6AAAAAAAAAAAAAAAAAAAAEHN0Y28AAAAAAAAAAAAAABhzZ3BkAQAAAHJvbGwAAAACAAAAAAAAABRzYmdwAAAAAHJvbGwAAAAAAAAAPG12ZXgAAAAUbWVoZAEAAAAAAAAAAAAXEgAAACB0cmV4AAAAAAAAAAEAAAABAAAAAQAAAAAAAQAA",
+            "index_segment": "312e3194-0210-4efd-bffa-17ec1759a7e2.mp4?pathsig=8c953e4f~pNvUqgxvApFqutn9P6rqTC1s1eYK069S47CWAQnTlY4&r=dXMtd2VzdDE%3D&range=831-1330",
+            "segments": [
+                {
+                    "start": 0,
+                    "end": 6.08,
+                    "url": "312e3194-0210-4efd-bffa-17ec1759a7e2.mp4?pathsig=8c953e4f~pNvUqgxvApFqutn9P6rqTC1s1eYK069S47CWAQnTlY4&r=dXMtd2VzdDE%3D&range=1331-1031047",
+                    "size": 1029716
+                },
+                {
+                    "start": 6.08,
+                    "end": 12.16,
+                    "url": "312e3194-0210-4efd-bffa-17ec1759a7e2.mp4?pathsig=8c953e4f~pNvUqgxvApFqutn9P6rqTC1s1eYK069S47CWAQnTlY4&r=dXMtd2VzdDE%3D&range=1031048-1888162",
+                    "size": 857114
+                },
+                {
+                    "start": 12.16,
+                    "end": 18.24,
+                    "url": "312e3194-0210-4efd-bffa-17ec1759a7e2.mp4?pathsig=8c953e4f~pNvUqgxvApFqutn9P6rqTC1s1eYK069S47CWAQnTlY4&r=dXMtd2VzdDE%3D&range=1888163-2678497",
+                    "size": 790334
+                },
+                {
+                    "start": 18.24,
+                    "end": 24.32,
+                    "url": "312e3194-0210-4efd-bffa-17ec1759a7e2.mp4?pathsig=8c953e4f~pNvUqgxvApFqutn9P6rqTC1s1eYK069S47CWAQnTlY4&r=dXMtd2VzdDE%3D&range=2678498-3442272",
+                    "size": 763774
+                },
+                {
+                    "start": 24.32,
+                    "end": 30.4,
+                    "url": "312e3194-0210-4efd-bffa-17ec1759a7e2.mp4?pathsig=8c953e4f~pNvUqgxvApFqutn9P6rqTC1s1eYK069S47CWAQnTlY4&r=dXMtd2VzdDE%3D&range=3442273-4226510",
+                    "size": 784237
+                },
+                {
+                    "start": 30.4,
+                    "end": 36.48,
+                    "url": "312e3194-0210-4efd-bffa-17ec1759a7e2.mp4?pathsig=8c953e4f~pNvUqgxvApFqutn9P6rqTC1s1eYK069S47CWAQnTlY4&r=dXMtd2VzdDE%3D&range=4226511-4933254",
+                    "size": 706743
+                },
+                {
+                    "start": 36.48,
+                    "end": 42.56,
+                    "url": "312e3194-0210-4efd-bffa-17ec1759a7e2.mp4?pathsig=8c953e4f~pNvUqgxvApFqutn9P6rqTC1s1eYK069S47CWAQnTlY4&r=dXMtd2VzdDE%3D&range=4933255-5682732",
+                    "size": 749477
+                },
+                {
+                    "start": 42.56,
+                    "end": 48.64,
+                    "url": "312e3194-0210-4efd-bffa-17ec1759a7e2.mp4?pathsig=8c953e4f~pNvUqgxvApFqutn9P6rqTC1s1eYK069S47CWAQnTlY4&r=dXMtd2VzdDE%3D&range=5682733-6447218",
+                    "size": 764485
+                },
+                {
+                    "start": 48.64,
+                    "end": 54.72,
+                    "url": "312e3194-0210-4efd-bffa-17ec1759a7e2.mp4?pathsig=8c953e4f~pNvUqgxvApFqutn9P6rqTC1s1eYK069S47CWAQnTlY4&r=dXMtd2VzdDE%3D&range=6447219-7252257",
+                    "size": 805038
+                },
+                {
+                    "start": 54.72,
+                    "end": 60,
+                    "url": "312e3194-0210-4efd-bffa-17ec1759a7e2.mp4?pathsig=8c953e4f~pNvUqgxvApFqutn9P6rqTC1s1eYK069S47CWAQnTlY4&r=dXMtd2VzdDE%3D&range=7252258-7923560",
+                    "size": 671302
+                },
+                {
+                    "start": 60,
+                    "end": 66.08,
+                    "url": "312e3194-0210-4efd-bffa-17ec1759a7e2.mp4?pathsig=8c953e4f~pNvUqgxvApFqutn9P6rqTC1s1eYK069S47CWAQnTlY4&r=dXMtd2VzdDE%3D&range=7923561-8650100",
+                    "size": 726539
+                },
+                {
+                    "start": 66.08,
+                    "end": 72.16,
+                    "url": "312e3194-0210-4efd-bffa-17ec1759a7e2.mp4?pathsig=8c953e4f~pNvUqgxvApFqutn9P6rqTC1s1eYK069S47CWAQnTlY4&r=dXMtd2VzdDE%3D&range=8650101-9417381",
+                    "size": 767280
+                },
+                {
+                    "start": 72.16,
+                    "end": 78.24,
+                    "url": "312e3194-0210-4efd-bffa-17ec1759a7e2.mp4?pathsig=8c953e4f~pNvUqgxvApFqutn9P6rqTC1s1eYK069S47CWAQnTlY4&r=dXMtd2VzdDE%3D&range=9417382-10200406",
+                    "size": 783024
+                },
+                {
+                    "start": 78.24,
+                    "end": 84.32,
+                    "url": "312e3194-0210-4efd-bffa-17ec1759a7e2.mp4?pathsig=8c953e4f~pNvUqgxvApFqutn9P6rqTC1s1eYK069S47CWAQnTlY4&r=dXMtd2VzdDE%3D&range=10200407-10953365",
+                    "size": 752958
+                },
+                {
+                    "start": 84.32,
+                    "end": 90.4,
+                    "url": "312e3194-0210-4efd-bffa-17ec1759a7e2.mp4?pathsig=8c953e4f~pNvUqgxvApFqutn9P6rqTC1s1eYK069S47CWAQnTlY4&r=dXMtd2VzdDE%3D&range=10953366-11816206",
+                    "size": 862840
+                },
+                {
+                    "start": 90.4,
+                    "end": 96.48,
+                    "url": "312e3194-0210-4efd-bffa-17ec1759a7e2.mp4?pathsig=8c953e4f~pNvUqgxvApFqutn9P6rqTC1s1eYK069S47CWAQnTlY4&r=dXMtd2VzdDE%3D&range=11816207-12758146",
+                    "size": 941939
+                },
+                {
+                    "start": 96.48,
+                    "end": 102.56,
+                    "url": "312e3194-0210-4efd-bffa-17ec1759a7e2.mp4?pathsig=8c953e4f~pNvUqgxvApFqutn9P6rqTC1s1eYK069S47CWAQnTlY4&r=dXMtd2VzdDE%3D&range=12758147-13601952",
+                    "size": 843805
+                },
+                {
+                    "start": 102.56,
+                    "end": 108.64,
+                    "url": "312e3194-0210-4efd-bffa-17ec1759a7e2.mp4?pathsig=8c953e4f~pNvUqgxvApFqutn9P6rqTC1s1eYK069S47CWAQnTlY4&r=dXMtd2VzdDE%3D&range=13601953-14365105",
+                    "size": 763152
+                },
+                {
+                    "start": 108.64,
+                    "end": 114.72,
+                    "url": "312e3194-0210-4efd-bffa-17ec1759a7e2.mp4?pathsig=8c953e4f~pNvUqgxvApFqutn9P6rqTC1s1eYK069S47CWAQnTlY4&r=dXMtd2VzdDE%3D&range=14365106-15123349",
+                    "size": 758243
+                },
+                {
+                    "start": 114.72,
+                    "end": 120,
+                    "url": "312e3194-0210-4efd-bffa-17ec1759a7e2.mp4?pathsig=8c953e4f~pNvUqgxvApFqutn9P6rqTC1s1eYK069S47CWAQnTlY4&r=dXMtd2VzdDE%3D&range=15123350-15766398",
+                    "size": 643048
+                },
+                {
+                    "start": 120,
+                    "end": 126.08,
+                    "url": "312e3194-0210-4efd-bffa-17ec1759a7e2.mp4?pathsig=8c953e4f~pNvUqgxvApFqutn9P6rqTC1s1eYK069S47CWAQnTlY4&r=dXMtd2VzdDE%3D&range=15766399-16485344",
+                    "size": 718945
+                },
+                {
+                    "start": 126.08,
+                    "end": 132.16,
+                    "url": "312e3194-0210-4efd-bffa-17ec1759a7e2.mp4?pathsig=8c953e4f~pNvUqgxvApFqutn9P6rqTC1s1eYK069S47CWAQnTlY4&r=dXMtd2VzdDE%3D&range=16485345-17081380",
+                    "size": 596035
+                },
+                {
+                    "start": 132.16,
+                    "end": 138.24,
+                    "url": "312e3194-0210-4efd-bffa-17ec1759a7e2.mp4?pathsig=8c953e4f~pNvUqgxvApFqutn9P6rqTC1s1eYK069S47CWAQnTlY4&r=dXMtd2VzdDE%3D&range=17081381-17230779",
+                    "size": 149398
+                },
+                {
+                    "start": 138.24,
+                    "end": 144.32,
+                    "url": "312e3194-0210-4efd-bffa-17ec1759a7e2.mp4?pathsig=8c953e4f~pNvUqgxvApFqutn9P6rqTC1s1eYK069S47CWAQnTlY4&r=dXMtd2VzdDE%3D&range=17230780-17416063",
+                    "size": 185283
+                },
+                {
+                    "start": 144.32,
+                    "end": 150.4,
+                    "url": "312e3194-0210-4efd-bffa-17ec1759a7e2.mp4?pathsig=8c953e4f~pNvUqgxvApFqutn9P6rqTC1s1eYK069S47CWAQnTlY4&r=dXMtd2VzdDE%3D&range=17416064-17634152",
+                    "size": 218088
+                },
+                {
+                    "start": 150.4,
+                    "end": 156.48,
+                    "url": "312e3194-0210-4efd-bffa-17ec1759a7e2.mp4?pathsig=8c953e4f~pNvUqgxvApFqutn9P6rqTC1s1eYK069S47CWAQnTlY4&r=dXMtd2VzdDE%3D&range=17634153-18069923",
+                    "size": 435770
+                },
+                {
+                    "start": 156.48,
+                    "end": 162.56,
+                    "url": "312e3194-0210-4efd-bffa-17ec1759a7e2.mp4?pathsig=8c953e4f~pNvUqgxvApFqutn9P6rqTC1s1eYK069S47CWAQnTlY4&r=dXMtd2VzdDE%3D&range=18069924-18323438",
+                    "size": 253514
+                },
+                {
+                    "start": 162.56,
+                    "end": 168.64,
+                    "url": "312e3194-0210-4efd-bffa-17ec1759a7e2.mp4?pathsig=8c953e4f~pNvUqgxvApFqutn9P6rqTC1s1eYK069S47CWAQnTlY4&r=dXMtd2VzdDE%3D&range=18323439-18710941",
+                    "size": 387502
+                },
+                {
+                    "start": 168.64,
+                    "end": 174.72,
+                    "url": "312e3194-0210-4efd-bffa-17ec1759a7e2.mp4?pathsig=8c953e4f~pNvUqgxvApFqutn9P6rqTC1s1eYK069S47CWAQnTlY4&r=dXMtd2VzdDE%3D&range=18710942-18858578",
+                    "size": 147636
+                },
+                {
+                    "start": 174.72,
+                    "end": 180.8,
+                    "url": "312e3194-0210-4efd-bffa-17ec1759a7e2.mp4?pathsig=8c953e4f~pNvUqgxvApFqutn9P6rqTC1s1eYK069S47CWAQnTlY4&r=dXMtd2VzdDE%3D&range=18858579-19643878",
+                    "size": 785299
+                },
+                {
+                    "start": 180.8,
+                    "end": 186.88,
+                    "url": "312e3194-0210-4efd-bffa-17ec1759a7e2.mp4?pathsig=8c953e4f~pNvUqgxvApFqutn9P6rqTC1s1eYK069S47CWAQnTlY4&r=dXMtd2VzdDE%3D&range=19643879-20009154",
+                    "size": 365275
+                },
+                {
+                    "start": 186.88,
+                    "end": 192.96,
+                    "url": "312e3194-0210-4efd-bffa-17ec1759a7e2.mp4?pathsig=8c953e4f~pNvUqgxvApFqutn9P6rqTC1s1eYK069S47CWAQnTlY4&r=dXMtd2VzdDE%3D&range=20009155-20842557",
+                    "size": 833402
+                },
+                {
+                    "start": 192.96,
+                    "end": 199.04,
+                    "url": "312e3194-0210-4efd-bffa-17ec1759a7e2.mp4?pathsig=8c953e4f~pNvUqgxvApFqutn9P6rqTC1s1eYK069S47CWAQnTlY4&r=dXMtd2VzdDE%3D&range=20842558-21335893",
+                    "size": 493335
+                },
+                {
+                    "start": 199.04,
+                    "end": 205.12,
+                    "url": "312e3194-0210-4efd-bffa-17ec1759a7e2.mp4?pathsig=8c953e4f~pNvUqgxvApFqutn9P6rqTC1s1eYK069S47CWAQnTlY4&r=dXMtd2VzdDE%3D&range=21335894-22143159",
+                    "size": 807265
+                },
+                {
+                    "start": 205.12,
+                    "end": 211.2,
+                    "url": "312e3194-0210-4efd-bffa-17ec1759a7e2.mp4?pathsig=8c953e4f~pNvUqgxvApFqutn9P6rqTC1s1eYK069S47CWAQnTlY4&r=dXMtd2VzdDE%3D&range=22143160-22872490",
+                    "size": 729330
+                },
+                {
+                    "start": 211.2,
+                    "end": 217.28,
+                    "url": "312e3194-0210-4efd-bffa-17ec1759a7e2.mp4?pathsig=8c953e4f~pNvUqgxvApFqutn9P6rqTC1s1eYK069S47CWAQnTlY4&r=dXMtd2VzdDE%3D&range=22872491-23581482",
+                    "size": 708991
+                },
+                {
+                    "start": 217.28,
+                    "end": 223.36,
+                    "url": "312e3194-0210-4efd-bffa-17ec1759a7e2.mp4?pathsig=8c953e4f~pNvUqgxvApFqutn9P6rqTC1s1eYK069S47CWAQnTlY4&r=dXMtd2VzdDE%3D&range=23581483-24397162",
+                    "size": 815679
+                },
+                {
+                    "start": 223.36,
+                    "end": 229.44,
+                    "url": "312e3194-0210-4efd-bffa-17ec1759a7e2.mp4?pathsig=8c953e4f~pNvUqgxvApFqutn9P6rqTC1s1eYK069S47CWAQnTlY4&r=dXMtd2VzdDE%3D&range=24397163-25276312",
+                    "size": 879149
+                },
+                {
+                    "start": 229.44,
+                    "end": 236.24,
+                    "url": "312e3194-0210-4efd-bffa-17ec1759a7e2.mp4?pathsig=8c953e4f~pNvUqgxvApFqutn9P6rqTC1s1eYK069S47CWAQnTlY4&r=dXMtd2VzdDE%3D&range=25276313-26473748",
+                    "size": 1197435
+                }
+            ],
+            "AudioProvenance": 0
+        },
+        {
+            "id": "d95f716b-bfa7-4de6-85ca-6d1f3feb43f1",
+            "avg_id": "635b8d57",
+            "base_url": "",
+            "format": "dash",
+            "mime_type": "video/mp4",
+            "codecs": "avc1.640015",
+            "bitrate": 215000,
+            "avg_bitrate": 159000,
+            "duration": 236.24,
+            "framerate": 25,
+            "width": 426,
+            "height": 240,
+            "max_segment_duration": 7,
+            "init_segment": "AAAAIGZ0eXBkYXNoAAAAAGRhc2htcDQybXA0MWlzbzYAAAMibW9vdgAAAGxtdmhkAAAAAOEbnyfhG58nAAAAGQAAAAAAAQAAAQAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAACFpb2RzAAAAABCAgIAQAE////9//w6AgIAEAAAAAQAAAlF0cmFrAAAAXHRraGQAAAAH4RufJ+EbnycAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAABAAAAAAaoAAADwAAAAAAAkZWR0cwAAABxlbHN0AAAAAAAAAAEAAAAAAAAAAwABAAAAAAHJbWRpYQAAACBtZGhkAAAAAOEbnyfhG58nAAAAGQAAAABVxAAAAAAANmhkbHIAAAAAAAAAAHZpZGUAAAAAAAAAAAAAAABMLVNNQVNIIFZpZGVvIEhhbmRsZXIAAAABa21pbmYAAAAUdm1oZAAAAAEAAAAAAAAAAAAAACRkaW5mAAAAHGRyZWYAAAAAAAAAAQAAAAx1cmwgAAAAAQAAAStzdGJsAAAAs3N0c2QAAAAAAAAAAQAAAKNhdmMxAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAaoA8ABIAAAASAAAAAAAAAABCkFWQyBDb2RpbmcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP//AAAAOmF2Y0MBZAAV/+EAHWdkABWsViQbH+TmoMDAyAAAAwAIAAADAZB4sWxMAQAGaOiOyyLA/fj4AAAAABNjb2xybmNseAAGAAYABgAAAAAQc3R0cwAAAAAAAAAAAAAAEHN0c2MAAAAAAAAAAAAAABRzdHN6AAAAAAAAAAAAAAAAAAAAEHN0Y28AAAAAAAAAAAAAABhzZ3BkAQAAAHJvbGwAAAACAAAAAAAAABRzYmdwAAAAAHJvbGwAAAAAAAAAPG12ZXgAAAAUbWVoZAEAAAAAAAAAAAAXEgAAACB0cmV4AAAAAAAAAAEAAAABAAAAAQAAAAAAAQAA",
+            "index_segment": "d95f716b-bfa7-4de6-85ca-6d1f3feb43f1.mp4?pathsig=8c953e4f~jM-dy6crfUDsbR5V-wAlWk0Yx8DHJ1UdLlsAvU3RZxA&r=dXMtd2VzdDE%3D&range=834-1333",
+            "segments": [
+                {
+                    "start": 0,
+                    "end": 6.08,
+                    "url": "d95f716b-bfa7-4de6-85ca-6d1f3feb43f1.mp4?pathsig=8c953e4f~jM-dy6crfUDsbR5V-wAlWk0Yx8DHJ1UdLlsAvU3RZxA&r=dXMtd2VzdDE%3D&range=1334-157575",
+                    "size": 156241
+                },
+                {
+                    "start": 6.08,
+                    "end": 12.16,
+                    "url": "d95f716b-bfa7-4de6-85ca-6d1f3feb43f1.mp4?pathsig=8c953e4f~jM-dy6crfUDsbR5V-wAlWk0Yx8DHJ1UdLlsAvU3RZxA&r=dXMtd2VzdDE%3D&range=157576-304610",
+                    "size": 147034
+                },
+                {
+                    "start": 12.16,
+                    "end": 18.24,
+                    "url": "d95f716b-bfa7-4de6-85ca-6d1f3feb43f1.mp4?pathsig=8c953e4f~jM-dy6crfUDsbR5V-wAlWk0Yx8DHJ1UdLlsAvU3RZxA&r=dXMtd2VzdDE%3D&range=304611-442482",
+                    "size": 137871
+                },
+                {
+                    "start": 18.24,
+                    "end": 24.32,
+                    "url": "d95f716b-bfa7-4de6-85ca-6d1f3feb43f1.mp4?pathsig=8c953e4f~jM-dy6crfUDsbR5V-wAlWk0Yx8DHJ1UdLlsAvU3RZxA&r=dXMtd2VzdDE%3D&range=442483-574710",
+                    "size": 132227
+                },
+                {
+                    "start": 24.32,
+                    "end": 30.4,
+                    "url": "d95f716b-bfa7-4de6-85ca-6d1f3feb43f1.mp4?pathsig=8c953e4f~jM-dy6crfUDsbR5V-wAlWk0Yx8DHJ1UdLlsAvU3RZxA&r=dXMtd2VzdDE%3D&range=574711-713960",
+                    "size": 139249
+                },
+                {
+                    "start": 30.4,
+                    "end": 36.48,
+                    "url": "d95f716b-bfa7-4de6-85ca-6d1f3feb43f1.mp4?pathsig=8c953e4f~jM-dy6crfUDsbR5V-wAlWk0Yx8DHJ1UdLlsAvU3RZxA&r=dXMtd2VzdDE%3D&range=713961-834117",
+                    "size": 120156
+                },
+                {
+                    "start": 36.48,
+                    "end": 42.56,
+                    "url": "d95f716b-bfa7-4de6-85ca-6d1f3feb43f1.mp4?pathsig=8c953e4f~jM-dy6crfUDsbR5V-wAlWk0Yx8DHJ1UdLlsAvU3RZxA&r=dXMtd2VzdDE%3D&range=834118-964984",
+                    "size": 130866
+                },
+                {
+                    "start": 42.56,
+                    "end": 48.64,
+                    "url": "d95f716b-bfa7-4de6-85ca-6d1f3feb43f1.mp4?pathsig=8c953e4f~jM-dy6crfUDsbR5V-wAlWk0Yx8DHJ1UdLlsAvU3RZxA&r=dXMtd2VzdDE%3D&range=964985-1097918",
+                    "size": 132933
+                },
+                {
+                    "start": 48.64,
+                    "end": 54.72,
+                    "url": "d95f716b-bfa7-4de6-85ca-6d1f3feb43f1.mp4?pathsig=8c953e4f~jM-dy6crfUDsbR5V-wAlWk0Yx8DHJ1UdLlsAvU3RZxA&r=dXMtd2VzdDE%3D&range=1097919-1238541",
+                    "size": 140622
+                },
+                {
+                    "start": 54.72,
+                    "end": 60,
+                    "url": "d95f716b-bfa7-4de6-85ca-6d1f3feb43f1.mp4?pathsig=8c953e4f~jM-dy6crfUDsbR5V-wAlWk0Yx8DHJ1UdLlsAvU3RZxA&r=dXMtd2VzdDE%3D&range=1238542-1356085",
+                    "size": 117543
+                },
+                {
+                    "start": 60,
+                    "end": 66.08,
+                    "url": "d95f716b-bfa7-4de6-85ca-6d1f3feb43f1.mp4?pathsig=8c953e4f~jM-dy6crfUDsbR5V-wAlWk0Yx8DHJ1UdLlsAvU3RZxA&r=dXMtd2VzdDE%3D&range=1356086-1481326",
+                    "size": 125240
+                },
+                {
+                    "start": 66.08,
+                    "end": 72.16,
+                    "url": "d95f716b-bfa7-4de6-85ca-6d1f3feb43f1.mp4?pathsig=8c953e4f~jM-dy6crfUDsbR5V-wAlWk0Yx8DHJ1UdLlsAvU3RZxA&r=dXMtd2VzdDE%3D&range=1481327-1611749",
+                    "size": 130422
+                },
+                {
+                    "start": 72.16,
+                    "end": 78.24,
+                    "url": "d95f716b-bfa7-4de6-85ca-6d1f3feb43f1.mp4?pathsig=8c953e4f~jM-dy6crfUDsbR5V-wAlWk0Yx8DHJ1UdLlsAvU3RZxA&r=dXMtd2VzdDE%3D&range=1611750-1749909",
+                    "size": 138159
+                },
+                {
+                    "start": 78.24,
+                    "end": 84.32,
+                    "url": "d95f716b-bfa7-4de6-85ca-6d1f3feb43f1.mp4?pathsig=8c953e4f~jM-dy6crfUDsbR5V-wAlWk0Yx8DHJ1UdLlsAvU3RZxA&r=dXMtd2VzdDE%3D&range=1749910-1883461",
+                    "size": 133551
+                },
+                {
+                    "start": 84.32,
+                    "end": 90.4,
+                    "url": "d95f716b-bfa7-4de6-85ca-6d1f3feb43f1.mp4?pathsig=8c953e4f~jM-dy6crfUDsbR5V-wAlWk0Yx8DHJ1UdLlsAvU3RZxA&r=dXMtd2VzdDE%3D&range=1883462-2040708",
+                    "size": 157246
+                },
+                {
+                    "start": 90.4,
+                    "end": 96.48,
+                    "url": "d95f716b-bfa7-4de6-85ca-6d1f3feb43f1.mp4?pathsig=8c953e4f~jM-dy6crfUDsbR5V-wAlWk0Yx8DHJ1UdLlsAvU3RZxA&r=dXMtd2VzdDE%3D&range=2040709-2221695",
+                    "size": 180986
+                },
+                {
+                    "start": 96.48,
+                    "end": 102.56,
+                    "url": "d95f716b-bfa7-4de6-85ca-6d1f3feb43f1.mp4?pathsig=8c953e4f~jM-dy6crfUDsbR5V-wAlWk0Yx8DHJ1UdLlsAvU3RZxA&r=dXMtd2VzdDE%3D&range=2221696-2374799",
+                    "size": 153103
+                },
+                {
+                    "start": 102.56,
+                    "end": 108.64,
+                    "url": "d95f716b-bfa7-4de6-85ca-6d1f3feb43f1.mp4?pathsig=8c953e4f~jM-dy6crfUDsbR5V-wAlWk0Yx8DHJ1UdLlsAvU3RZxA&r=dXMtd2VzdDE%3D&range=2374800-2506373",
+                    "size": 131573
+                },
+                {
+                    "start": 108.64,
+                    "end": 114.72,
+                    "url": "d95f716b-bfa7-4de6-85ca-6d1f3feb43f1.mp4?pathsig=8c953e4f~jM-dy6crfUDsbR5V-wAlWk0Yx8DHJ1UdLlsAvU3RZxA&r=dXMtd2VzdDE%3D&range=2506374-2642741",
+                    "size": 136367
+                },
+                {
+                    "start": 114.72,
+                    "end": 120,
+                    "url": "d95f716b-bfa7-4de6-85ca-6d1f3feb43f1.mp4?pathsig=8c953e4f~jM-dy6crfUDsbR5V-wAlWk0Yx8DHJ1UdLlsAvU3RZxA&r=dXMtd2VzdDE%3D&range=2642742-2755632",
+                    "size": 112890
+                },
+                {
+                    "start": 120,
+                    "end": 126.08,
+                    "url": "d95f716b-bfa7-4de6-85ca-6d1f3feb43f1.mp4?pathsig=8c953e4f~jM-dy6crfUDsbR5V-wAlWk0Yx8DHJ1UdLlsAvU3RZxA&r=dXMtd2VzdDE%3D&range=2755633-2877221",
+                    "size": 121588
+                },
+                {
+                    "start": 126.08,
+                    "end": 132.16,
+                    "url": "d95f716b-bfa7-4de6-85ca-6d1f3feb43f1.mp4?pathsig=8c953e4f~jM-dy6crfUDsbR5V-wAlWk0Yx8DHJ1UdLlsAvU3RZxA&r=dXMtd2VzdDE%3D&range=2877222-2996754",
+                    "size": 119532
+                },
+                {
+                    "start": 132.16,
+                    "end": 138.24,
+                    "url": "d95f716b-bfa7-4de6-85ca-6d1f3feb43f1.mp4?pathsig=8c953e4f~jM-dy6crfUDsbR5V-wAlWk0Yx8DHJ1UdLlsAvU3RZxA&r=dXMtd2VzdDE%3D&range=2996755-3051850",
+                    "size": 55095
+                },
+                {
+                    "start": 138.24,
+                    "end": 144.32,
+                    "url": "d95f716b-bfa7-4de6-85ca-6d1f3feb43f1.mp4?pathsig=8c953e4f~jM-dy6crfUDsbR5V-wAlWk0Yx8DHJ1UdLlsAvU3RZxA&r=dXMtd2VzdDE%3D&range=3051851-3118536",
+                    "size": 66685
+                },
+                {
+                    "start": 144.32,
+                    "end": 150.4,
+                    "url": "d95f716b-bfa7-4de6-85ca-6d1f3feb43f1.mp4?pathsig=8c953e4f~jM-dy6crfUDsbR5V-wAlWk0Yx8DHJ1UdLlsAvU3RZxA&r=dXMtd2VzdDE%3D&range=3118537-3178637",
+                    "size": 60100
+                },
+                {
+                    "start": 150.4,
+                    "end": 156.48,
+                    "url": "d95f716b-bfa7-4de6-85ca-6d1f3feb43f1.mp4?pathsig=8c953e4f~jM-dy6crfUDsbR5V-wAlWk0Yx8DHJ1UdLlsAvU3RZxA&r=dXMtd2VzdDE%3D&range=3178638-3268308",
+                    "size": 89670
+                },
+                {
+                    "start": 156.48,
+                    "end": 162.56,
+                    "url": "d95f716b-bfa7-4de6-85ca-6d1f3feb43f1.mp4?pathsig=8c953e4f~jM-dy6crfUDsbR5V-wAlWk0Yx8DHJ1UdLlsAvU3RZxA&r=dXMtd2VzdDE%3D&range=3268309-3322519",
+                    "size": 54210
+                },
+                {
+                    "start": 162.56,
+                    "end": 168.64,
+                    "url": "d95f716b-bfa7-4de6-85ca-6d1f3feb43f1.mp4?pathsig=8c953e4f~jM-dy6crfUDsbR5V-wAlWk0Yx8DHJ1UdLlsAvU3RZxA&r=dXMtd2VzdDE%3D&range=3322520-3410334",
+                    "size": 87814
+                },
+                {
+                    "start": 168.64,
+                    "end": 174.72,
+                    "url": "d95f716b-bfa7-4de6-85ca-6d1f3feb43f1.mp4?pathsig=8c953e4f~jM-dy6crfUDsbR5V-wAlWk0Yx8DHJ1UdLlsAvU3RZxA&r=dXMtd2VzdDE%3D&range=3410335-3446473",
+                    "size": 36138
+                },
+                {
+                    "start": 174.72,
+                    "end": 180.8,
+                    "url": "d95f716b-bfa7-4de6-85ca-6d1f3feb43f1.mp4?pathsig=8c953e4f~jM-dy6crfUDsbR5V-wAlWk0Yx8DHJ1UdLlsAvU3RZxA&r=dXMtd2VzdDE%3D&range=3446474-3581991",
+                    "size": 135517
+                },
+                {
+                    "start": 180.8,
+                    "end": 186.88,
+                    "url": "d95f716b-bfa7-4de6-85ca-6d1f3feb43f1.mp4?pathsig=8c953e4f~jM-dy6crfUDsbR5V-wAlWk0Yx8DHJ1UdLlsAvU3RZxA&r=dXMtd2VzdDE%3D&range=3581992-3634552",
+                    "size": 52560
+                },
+                {
+                    "start": 186.88,
+                    "end": 192.96,
+                    "url": "d95f716b-bfa7-4de6-85ca-6d1f3feb43f1.mp4?pathsig=8c953e4f~jM-dy6crfUDsbR5V-wAlWk0Yx8DHJ1UdLlsAvU3RZxA&r=dXMtd2VzdDE%3D&range=3634553-3742963",
+                    "size": 108410
+                },
+                {
+                    "start": 192.96,
+                    "end": 199.04,
+                    "url": "d95f716b-bfa7-4de6-85ca-6d1f3feb43f1.mp4?pathsig=8c953e4f~jM-dy6crfUDsbR5V-wAlWk0Yx8DHJ1UdLlsAvU3RZxA&r=dXMtd2VzdDE%3D&range=3742964-3823392",
+                    "size": 80428
+                },
+                {
+                    "start": 199.04,
+                    "end": 205.12,
+                    "url": "d95f716b-bfa7-4de6-85ca-6d1f3feb43f1.mp4?pathsig=8c953e4f~jM-dy6crfUDsbR5V-wAlWk0Yx8DHJ1UdLlsAvU3RZxA&r=dXMtd2VzdDE%3D&range=3823393-3970236",
+                    "size": 146843
+                },
+                {
+                    "start": 205.12,
+                    "end": 211.2,
+                    "url": "d95f716b-bfa7-4de6-85ca-6d1f3feb43f1.mp4?pathsig=8c953e4f~jM-dy6crfUDsbR5V-wAlWk0Yx8DHJ1UdLlsAvU3RZxA&r=dXMtd2VzdDE%3D&range=3970237-4100601",
+                    "size": 130364
+                },
+                {
+                    "start": 211.2,
+                    "end": 217.28,
+                    "url": "d95f716b-bfa7-4de6-85ca-6d1f3feb43f1.mp4?pathsig=8c953e4f~jM-dy6crfUDsbR5V-wAlWk0Yx8DHJ1UdLlsAvU3RZxA&r=dXMtd2VzdDE%3D&range=4100602-4224199",
+                    "size": 123597
+                },
+                {
+                    "start": 217.28,
+                    "end": 223.36,
+                    "url": "d95f716b-bfa7-4de6-85ca-6d1f3feb43f1.mp4?pathsig=8c953e4f~jM-dy6crfUDsbR5V-wAlWk0Yx8DHJ1UdLlsAvU3RZxA&r=dXMtd2VzdDE%3D&range=4224200-4370138",
+                    "size": 145938
+                },
+                {
+                    "start": 223.36,
+                    "end": 229.44,
+                    "url": "d95f716b-bfa7-4de6-85ca-6d1f3feb43f1.mp4?pathsig=8c953e4f~jM-dy6crfUDsbR5V-wAlWk0Yx8DHJ1UdLlsAvU3RZxA&r=dXMtd2VzdDE%3D&range=4370139-4533224",
+                    "size": 163085
+                },
+                {
+                    "start": 229.44,
+                    "end": 236.24,
+                    "url": "d95f716b-bfa7-4de6-85ca-6d1f3feb43f1.mp4?pathsig=8c953e4f~jM-dy6crfUDsbR5V-wAlWk0Yx8DHJ1UdLlsAvU3RZxA&r=dXMtd2VzdDE%3D&range=4533225-4712069",
+                    "size": 178844
+                }
+            ],
+            "AudioProvenance": 0
+        },
+        {
+            "id": "e72acb2d-9095-4ae4-bc76-f8eb9664c010",
+            "avg_id": "635b8d57",
+            "base_url": "",
+            "format": "dash",
+            "mime_type": "video/mp4",
+            "codecs": "avc1.64001E",
+            "bitrate": 444000,
+            "avg_bitrate": 322000,
+            "duration": 236.24,
+            "framerate": 25,
+            "width": 640,
+            "height": 360,
+            "max_segment_duration": 7,
+            "init_segment": "AAAAIGZ0eXBkYXNoAAAAAGRhc2htcDQybXA0MWlzbzYAAAMhbW9vdgAAAGxtdmhkAAAAAOEbnxXhG58VAAAAGQAAAAAAAQAAAQAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAACFpb2RzAAAAABCAgIAQAE////9//w6AgIAEAAAAAQAAAlB0cmFrAAAAXHRraGQAAAAH4RufFeEbnxUAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAABAAAAAAoAAAAFoAAAAAAAkZWR0cwAAABxlbHN0AAAAAAAAAAEAAAAAAAAAAwABAAAAAAHIbWRpYQAAACBtZGhkAAAAAOEbnxXhG58VAAAAGQAAAABVxAAAAAAANmhkbHIAAAAAAAAAAHZpZGUAAAAAAAAAAAAAAABMLVNNQVNIIFZpZGVvIEhhbmRsZXIAAAABam1pbmYAAAAUdm1oZAAAAAEAAAAAAAAAAAAAACRkaW5mAAAAHGRyZWYAAAAAAAAAAQAAAAx1cmwgAAAAAQAAASpzdGJsAAAAsnN0c2QAAAAAAAAAAQAAAKJhdmMxAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAoABaABIAAAASAAAAAAAAAABCkFWQyBDb2RpbmcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP//AAAAOWF2Y0MBZAAe/+EAHWdkAB6s2YCgL/lmoMDAyAAAAwAIAAADAZB4sWzQAQAFaOl7LIv9+PgAAAAAE2NvbHJuY2x4AAYABgAGAAAAABBzdHRzAAAAAAAAAAAAAAAQc3RzYwAAAAAAAAAAAAAAFHN0c3oAAAAAAAAAAAAAAAAAAAAQc3RjbwAAAAAAAAAAAAAAGHNncGQBAAAAcm9sbAAAAAIAAAAAAAAAFHNiZ3AAAAAAcm9sbAAAAAAAAAA8bXZleAAAABRtZWhkAQAAAAAAAAAAABcSAAAAIHRyZXgAAAAAAAAAAQAAAAEAAAABAAAAAAABAAA=",
+            "index_segment": "e72acb2d-9095-4ae4-bc76-f8eb9664c010.mp4?pathsig=8c953e4f~p-YXqXGinOUwo091InmO0XRnj1TLJUAAbrx2DZMKhFw&r=dXMtY2VudHJhbDE%3D&range=833-1332",
+            "segments": [
+                {
+                    "start": 0,
+                    "end": 6.08,
+                    "url": "e72acb2d-9095-4ae4-bc76-f8eb9664c010.mp4?pathsig=8c953e4f~p-YXqXGinOUwo091InmO0XRnj1TLJUAAbrx2DZMKhFw&r=dXMtY2VudHJhbDE%3D&range=1333-338987",
+                    "size": 337654
+                },
+                {
+                    "start": 6.08,
+                    "end": 12.16,
+                    "url": "e72acb2d-9095-4ae4-bc76-f8eb9664c010.mp4?pathsig=8c953e4f~p-YXqXGinOUwo091InmO0XRnj1TLJUAAbrx2DZMKhFw&r=dXMtY2VudHJhbDE%3D&range=338988-637170",
+                    "size": 298182
+                },
+                {
+                    "start": 12.16,
+                    "end": 18.24,
+                    "url": "e72acb2d-9095-4ae4-bc76-f8eb9664c010.mp4?pathsig=8c953e4f~p-YXqXGinOUwo091InmO0XRnj1TLJUAAbrx2DZMKhFw&r=dXMtY2VudHJhbDE%3D&range=637171-918826",
+                    "size": 281655
+                },
+                {
+                    "start": 18.24,
+                    "end": 24.32,
+                    "url": "e72acb2d-9095-4ae4-bc76-f8eb9664c010.mp4?pathsig=8c953e4f~p-YXqXGinOUwo091InmO0XRnj1TLJUAAbrx2DZMKhFw&r=dXMtY2VudHJhbDE%3D&range=918827-1192356",
+                    "size": 273529
+                },
+                {
+                    "start": 24.32,
+                    "end": 30.4,
+                    "url": "e72acb2d-9095-4ae4-bc76-f8eb9664c010.mp4?pathsig=8c953e4f~p-YXqXGinOUwo091InmO0XRnj1TLJUAAbrx2DZMKhFw&r=dXMtY2VudHJhbDE%3D&range=1192357-1473782",
+                    "size": 281425
+                },
+                {
+                    "start": 30.4,
+                    "end": 36.48,
+                    "url": "e72acb2d-9095-4ae4-bc76-f8eb9664c010.mp4?pathsig=8c953e4f~p-YXqXGinOUwo091InmO0XRnj1TLJUAAbrx2DZMKhFw&r=dXMtY2VudHJhbDE%3D&range=1473783-1721249",
+                    "size": 247466
+                },
+                {
+                    "start": 36.48,
+                    "end": 42.56,
+                    "url": "e72acb2d-9095-4ae4-bc76-f8eb9664c010.mp4?pathsig=8c953e4f~p-YXqXGinOUwo091InmO0XRnj1TLJUAAbrx2DZMKhFw&r=dXMtY2VudHJhbDE%3D&range=1721250-1994634",
+                    "size": 273384
+                },
+                {
+                    "start": 42.56,
+                    "end": 48.64,
+                    "url": "e72acb2d-9095-4ae4-bc76-f8eb9664c010.mp4?pathsig=8c953e4f~p-YXqXGinOUwo091InmO0XRnj1TLJUAAbrx2DZMKhFw&r=dXMtY2VudHJhbDE%3D&range=1994635-2265659",
+                    "size": 271024
+                },
+                {
+                    "start": 48.64,
+                    "end": 54.72,
+                    "url": "e72acb2d-9095-4ae4-bc76-f8eb9664c010.mp4?pathsig=8c953e4f~p-YXqXGinOUwo091InmO0XRnj1TLJUAAbrx2DZMKhFw&r=dXMtY2VudHJhbDE%3D&range=2265660-2553148",
+                    "size": 287488
+                },
+                {
+                    "start": 54.72,
+                    "end": 60,
+                    "url": "e72acb2d-9095-4ae4-bc76-f8eb9664c010.mp4?pathsig=8c953e4f~p-YXqXGinOUwo091InmO0XRnj1TLJUAAbrx2DZMKhFw&r=dXMtY2VudHJhbDE%3D&range=2553149-2796784",
+                    "size": 243635
+                },
+                {
+                    "start": 60,
+                    "end": 66.08,
+                    "url": "e72acb2d-9095-4ae4-bc76-f8eb9664c010.mp4?pathsig=8c953e4f~p-YXqXGinOUwo091InmO0XRnj1TLJUAAbrx2DZMKhFw&r=dXMtY2VudHJhbDE%3D&range=2796785-3049939",
+                    "size": 253154
+                },
+                {
+                    "start": 66.08,
+                    "end": 72.16,
+                    "url": "e72acb2d-9095-4ae4-bc76-f8eb9664c010.mp4?pathsig=8c953e4f~p-YXqXGinOUwo091InmO0XRnj1TLJUAAbrx2DZMKhFw&r=dXMtY2VudHJhbDE%3D&range=3049940-3319485",
+                    "size": 269545
+                },
+                {
+                    "start": 72.16,
+                    "end": 78.24,
+                    "url": "e72acb2d-9095-4ae4-bc76-f8eb9664c010.mp4?pathsig=8c953e4f~p-YXqXGinOUwo091InmO0XRnj1TLJUAAbrx2DZMKhFw&r=dXMtY2VudHJhbDE%3D&range=3319486-3600786",
+                    "size": 281300
+                },
+                {
+                    "start": 78.24,
+                    "end": 84.32,
+                    "url": "e72acb2d-9095-4ae4-bc76-f8eb9664c010.mp4?pathsig=8c953e4f~p-YXqXGinOUwo091InmO0XRnj1TLJUAAbrx2DZMKhFw&r=dXMtY2VudHJhbDE%3D&range=3600787-3873512",
+                    "size": 272725
+                },
+                {
+                    "start": 84.32,
+                    "end": 90.4,
+                    "url": "e72acb2d-9095-4ae4-bc76-f8eb9664c010.mp4?pathsig=8c953e4f~p-YXqXGinOUwo091InmO0XRnj1TLJUAAbrx2DZMKhFw&r=dXMtY2VudHJhbDE%3D&range=3873513-4190457",
+                    "size": 316944
+                },
+                {
+                    "start": 90.4,
+                    "end": 96.48,
+                    "url": "e72acb2d-9095-4ae4-bc76-f8eb9664c010.mp4?pathsig=8c953e4f~p-YXqXGinOUwo091InmO0XRnj1TLJUAAbrx2DZMKhFw&r=dXMtY2VudHJhbDE%3D&range=4190458-4539876",
+                    "size": 349418
+                },
+                {
+                    "start": 96.48,
+                    "end": 102.56,
+                    "url": "e72acb2d-9095-4ae4-bc76-f8eb9664c010.mp4?pathsig=8c953e4f~p-YXqXGinOUwo091InmO0XRnj1TLJUAAbrx2DZMKhFw&r=dXMtY2VudHJhbDE%3D&range=4539877-4848934",
+                    "size": 309057
+                },
+                {
+                    "start": 102.56,
+                    "end": 108.64,
+                    "url": "e72acb2d-9095-4ae4-bc76-f8eb9664c010.mp4?pathsig=8c953e4f~p-YXqXGinOUwo091InmO0XRnj1TLJUAAbrx2DZMKhFw&r=dXMtY2VudHJhbDE%3D&range=4848935-5116722",
+                    "size": 267787
+                },
+                {
+                    "start": 108.64,
+                    "end": 114.72,
+                    "url": "e72acb2d-9095-4ae4-bc76-f8eb9664c010.mp4?pathsig=8c953e4f~p-YXqXGinOUwo091InmO0XRnj1TLJUAAbrx2DZMKhFw&r=dXMtY2VudHJhbDE%3D&range=5116723-5391136",
+                    "size": 274413
+                },
+                {
+                    "start": 114.72,
+                    "end": 120,
+                    "url": "e72acb2d-9095-4ae4-bc76-f8eb9664c010.mp4?pathsig=8c953e4f~p-YXqXGinOUwo091InmO0XRnj1TLJUAAbrx2DZMKhFw&r=dXMtY2VudHJhbDE%3D&range=5391137-5617339",
+                    "size": 226202
+                },
+                {
+                    "start": 120,
+                    "end": 126.08,
+                    "url": "e72acb2d-9095-4ae4-bc76-f8eb9664c010.mp4?pathsig=8c953e4f~p-YXqXGinOUwo091InmO0XRnj1TLJUAAbrx2DZMKhFw&r=dXMtY2VudHJhbDE%3D&range=5617340-5865374",
+                    "size": 248034
+                },
+                {
+                    "start": 126.08,
+                    "end": 132.16,
+                    "url": "e72acb2d-9095-4ae4-bc76-f8eb9664c010.mp4?pathsig=8c953e4f~p-YXqXGinOUwo091InmO0XRnj1TLJUAAbrx2DZMKhFw&r=dXMtY2VudHJhbDE%3D&range=5865375-6094474",
+                    "size": 229099
+                },
+                {
+                    "start": 132.16,
+                    "end": 138.24,
+                    "url": "e72acb2d-9095-4ae4-bc76-f8eb9664c010.mp4?pathsig=8c953e4f~p-YXqXGinOUwo091InmO0XRnj1TLJUAAbrx2DZMKhFw&r=dXMtY2VudHJhbDE%3D&range=6094475-6207065",
+                    "size": 112590
+                },
+                {
+                    "start": 138.24,
+                    "end": 144.32,
+                    "url": "e72acb2d-9095-4ae4-bc76-f8eb9664c010.mp4?pathsig=8c953e4f~p-YXqXGinOUwo091InmO0XRnj1TLJUAAbrx2DZMKhFw&r=dXMtY2VudHJhbDE%3D&range=6207066-6330470",
+                    "size": 123404
+                },
+                {
+                    "start": 144.32,
+                    "end": 150.4,
+                    "url": "e72acb2d-9095-4ae4-bc76-f8eb9664c010.mp4?pathsig=8c953e4f~p-YXqXGinOUwo091InmO0XRnj1TLJUAAbrx2DZMKhFw&r=dXMtY2VudHJhbDE%3D&range=6330471-6450607",
+                    "size": 120136
+                },
+                {
+                    "start": 150.4,
+                    "end": 156.48,
+                    "url": "e72acb2d-9095-4ae4-bc76-f8eb9664c010.mp4?pathsig=8c953e4f~p-YXqXGinOUwo091InmO0XRnj1TLJUAAbrx2DZMKhFw&r=dXMtY2VudHJhbDE%3D&range=6450608-6622300",
+                    "size": 171692
+                },
+                {
+                    "start": 156.48,
+                    "end": 162.56,
+                    "url": "e72acb2d-9095-4ae4-bc76-f8eb9664c010.mp4?pathsig=8c953e4f~p-YXqXGinOUwo091InmO0XRnj1TLJUAAbrx2DZMKhFw&r=dXMtY2VudHJhbDE%3D&range=6622301-6716865",
+                    "size": 94564
+                },
+                {
+                    "start": 162.56,
+                    "end": 168.64,
+                    "url": "e72acb2d-9095-4ae4-bc76-f8eb9664c010.mp4?pathsig=8c953e4f~p-YXqXGinOUwo091InmO0XRnj1TLJUAAbrx2DZMKhFw&r=dXMtY2VudHJhbDE%3D&range=6716866-6880507",
+                    "size": 163641
+                },
+                {
+                    "start": 168.64,
+                    "end": 174.72,
+                    "url": "e72acb2d-9095-4ae4-bc76-f8eb9664c010.mp4?pathsig=8c953e4f~p-YXqXGinOUwo091InmO0XRnj1TLJUAAbrx2DZMKhFw&r=dXMtY2VudHJhbDE%3D&range=6880508-6941344",
+                    "size": 60836
+                },
+                {
+                    "start": 174.72,
+                    "end": 180.8,
+                    "url": "e72acb2d-9095-4ae4-bc76-f8eb9664c010.mp4?pathsig=8c953e4f~p-YXqXGinOUwo091InmO0XRnj1TLJUAAbrx2DZMKhFw&r=dXMtY2VudHJhbDE%3D&range=6941345-7196724",
+                    "size": 255379
+                },
+                {
+                    "start": 180.8,
+                    "end": 186.88,
+                    "url": "e72acb2d-9095-4ae4-bc76-f8eb9664c010.mp4?pathsig=8c953e4f~p-YXqXGinOUwo091InmO0XRnj1TLJUAAbrx2DZMKhFw&r=dXMtY2VudHJhbDE%3D&range=7196725-7307024",
+                    "size": 110299
+                },
+                {
+                    "start": 186.88,
+                    "end": 192.96,
+                    "url": "e72acb2d-9095-4ae4-bc76-f8eb9664c010.mp4?pathsig=8c953e4f~p-YXqXGinOUwo091InmO0XRnj1TLJUAAbrx2DZMKhFw&r=dXMtY2VudHJhbDE%3D&range=7307025-7540559",
+                    "size": 233534
+                },
+                {
+                    "start": 192.96,
+                    "end": 199.04,
+                    "url": "e72acb2d-9095-4ae4-bc76-f8eb9664c010.mp4?pathsig=8c953e4f~p-YXqXGinOUwo091InmO0XRnj1TLJUAAbrx2DZMKhFw&r=dXMtY2VudHJhbDE%3D&range=7540560-7698567",
+                    "size": 158007
+                },
+                {
+                    "start": 199.04,
+                    "end": 205.12,
+                    "url": "e72acb2d-9095-4ae4-bc76-f8eb9664c010.mp4?pathsig=8c953e4f~p-YXqXGinOUwo091InmO0XRnj1TLJUAAbrx2DZMKhFw&r=dXMtY2VudHJhbDE%3D&range=7698568-7989221",
+                    "size": 290653
+                },
+                {
+                    "start": 205.12,
+                    "end": 211.2,
+                    "url": "e72acb2d-9095-4ae4-bc76-f8eb9664c010.mp4?pathsig=8c953e4f~p-YXqXGinOUwo091InmO0XRnj1TLJUAAbrx2DZMKhFw&r=dXMtY2VudHJhbDE%3D&range=7989222-8250946",
+                    "size": 261724
+                },
+                {
+                    "start": 211.2,
+                    "end": 217.28,
+                    "url": "e72acb2d-9095-4ae4-bc76-f8eb9664c010.mp4?pathsig=8c953e4f~p-YXqXGinOUwo091InmO0XRnj1TLJUAAbrx2DZMKhFw&r=dXMtY2VudHJhbDE%3D&range=8250947-8501837",
+                    "size": 250890
+                },
+                {
+                    "start": 217.28,
+                    "end": 223.36,
+                    "url": "e72acb2d-9095-4ae4-bc76-f8eb9664c010.mp4?pathsig=8c953e4f~p-YXqXGinOUwo091InmO0XRnj1TLJUAAbrx2DZMKhFw&r=dXMtY2VudHJhbDE%3D&range=8501838-8796045",
+                    "size": 294207
+                },
+                {
+                    "start": 223.36,
+                    "end": 229.44,
+                    "url": "e72acb2d-9095-4ae4-bc76-f8eb9664c010.mp4?pathsig=8c953e4f~p-YXqXGinOUwo091InmO0XRnj1TLJUAAbrx2DZMKhFw&r=dXMtY2VudHJhbDE%3D&range=8796046-9119689",
+                    "size": 323643
+                },
+                {
+                    "start": 229.44,
+                    "end": 236.24,
+                    "url": "e72acb2d-9095-4ae4-bc76-f8eb9664c010.mp4?pathsig=8c953e4f~p-YXqXGinOUwo091InmO0XRnj1TLJUAAbrx2DZMKhFw&r=dXMtY2VudHJhbDE%3D&range=9119690-9502302",
+                    "size": 382612
+                }
+            ],
+            "AudioProvenance": 0
+        }
+    ],
+    "audio": [
+        {
+            "id": "7ef958ce-8400-4a6a-9e57-1b0d5e92679e",
+            "avg_id": "635b8d57",
+            "base_url": "",
+            "format": "dash",
+            "mime_type": "audio/mp4",
+            "codecs": "mp4a.40.2",
+            "bitrate": 196000,
+            "avg_bitrate": 194000,
+            "duration": 236.24533333333332,
+            "channels": 2,
+            "sample_rate": 48000,
+            "max_segment_duration": 6,
+            "init_segment": "AAAAHGZ0eXBkYXNoAAAAAGRhc2htcDQyaXNvNgAAAoptb292AAAAbG12aGQAAAAA4RufRuEbn0YAALuAAAAAAAABAAABAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAB2nRyYWsAAABcdGtoZAAAAAfhG59G4RufRgAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAQAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAACRlZHRzAAAAHGVsc3QAAAAAAAAAAQAAAAAAAAgAAAEAAAAAAVJtZGlhAAAAIG1kaGQAAAAA4RufRuEbn0YAALuAAAAAAFXEAAAAAAA7aGRscgAAAAAAAAAAc291bgAAAAAAAAAAAAAAAFZpbWVvIElzb3BvZCBBdWRpbyBIYW5kbGVyAAAAAO9taW5mAAAAEHNtaGQAAAAAAAAAAAAAACRkaW5mAAAAHGRyZWYAAAAAAAAAAQAAAAx1cmwgAAAAAQAAALNzdGJsAAAAZ3N0c2QAAAAAAAAAAQAAAFdtcDRhAAAAAAAAAAEAAAAAAAAAAAACABAAAAAAu4AAAAAAADNlc2RzAAAAAAOAgIAiAAAABICAgBRAFQAAAAAAAAAAAAAABYCAgAIRkAaAgIABAgAAABBzdHRzAAAAAAAAAAAAAAAQc3RzYwAAAAAAAAAAAAAAFHN0c3oAAAAAAAAAAAAAAAAAAAAQc3RjbwAAAAAAAAAAAAAAPG12ZXgAAAAUbWVoZAEAAAAAAAAAAK0QAAAAACB0cmV4AAAAAAAAAAEAAAABAAAAAQAAAAAAAQAA",
+            "index_segment": "7ef958ce-8400-4a6a-9e57-1b0d5e92679e.mp4?pathsig=8c953e4f~QTK8kOBgKv0YgYzei381cCxuya_-pJfkogZMlChvxUY&r=dXM%3D&range=678-1189",
+            "segments": [
+                {
+                    "start": 0,
+                    "end": 5.952,
+                    "url": "7ef958ce-8400-4a6a-9e57-1b0d5e92679e.mp4?pathsig=8c953e4f~QTK8kOBgKv0YgYzei381cCxuya_-pJfkogZMlChvxUY&r=dXM%3D&range=1190-146675",
+                    "size": 145485
+                },
+                {
+                    "start": 5.952,
+                    "end": 11.946666666666667,
+                    "url": "7ef958ce-8400-4a6a-9e57-1b0d5e92679e.mp4?pathsig=8c953e4f~QTK8kOBgKv0YgYzei381cCxuya_-pJfkogZMlChvxUY&r=dXM%3D&range=146676-291956",
+                    "size": 145280
+                },
+                {
+                    "start": 11.946666666666667,
+                    "end": 17.941333333333333,
+                    "url": "7ef958ce-8400-4a6a-9e57-1b0d5e92679e.mp4?pathsig=8c953e4f~QTK8kOBgKv0YgYzei381cCxuya_-pJfkogZMlChvxUY&r=dXM%3D&range=291957-437492",
+                    "size": 145535
+                },
+                {
+                    "start": 17.941333333333333,
+                    "end": 23.936,
+                    "url": "7ef958ce-8400-4a6a-9e57-1b0d5e92679e.mp4?pathsig=8c953e4f~QTK8kOBgKv0YgYzei381cCxuya_-pJfkogZMlChvxUY&r=dXM%3D&range=437493-582999",
+                    "size": 145506
+                },
+                {
+                    "start": 23.936,
+                    "end": 29.930666666666667,
+                    "url": "7ef958ce-8400-4a6a-9e57-1b0d5e92679e.mp4?pathsig=8c953e4f~QTK8kOBgKv0YgYzei381cCxuya_-pJfkogZMlChvxUY&r=dXM%3D&range=583000-728055",
+                    "size": 145055
+                },
+                {
+                    "start": 29.930666666666667,
+                    "end": 35.925333333333334,
+                    "url": "7ef958ce-8400-4a6a-9e57-1b0d5e92679e.mp4?pathsig=8c953e4f~QTK8kOBgKv0YgYzei381cCxuya_-pJfkogZMlChvxUY&r=dXM%3D&range=728056-873744",
+                    "size": 145688
+                },
+                {
+                    "start": 35.925333333333334,
+                    "end": 41.92,
+                    "url": "7ef958ce-8400-4a6a-9e57-1b0d5e92679e.mp4?pathsig=8c953e4f~QTK8kOBgKv0YgYzei381cCxuya_-pJfkogZMlChvxUY&r=dXM%3D&range=873745-1019071",
+                    "size": 145326
+                },
+                {
+                    "start": 41.92,
+                    "end": 47.91466666666667,
+                    "url": "7ef958ce-8400-4a6a-9e57-1b0d5e92679e.mp4?pathsig=8c953e4f~QTK8kOBgKv0YgYzei381cCxuya_-pJfkogZMlChvxUY&r=dXM%3D&range=1019072-1164420",
+                    "size": 145348
+                },
+                {
+                    "start": 47.91466666666667,
+                    "end": 53.909333333333336,
+                    "url": "7ef958ce-8400-4a6a-9e57-1b0d5e92679e.mp4?pathsig=8c953e4f~QTK8kOBgKv0YgYzei381cCxuya_-pJfkogZMlChvxUY&r=dXM%3D&range=1164421-1309547",
+                    "size": 145126
+                },
+                {
+                    "start": 53.909333333333336,
+                    "end": 59.904,
+                    "url": "7ef958ce-8400-4a6a-9e57-1b0d5e92679e.mp4?pathsig=8c953e4f~QTK8kOBgKv0YgYzei381cCxuya_-pJfkogZMlChvxUY&r=dXM%3D&range=1309548-1455200",
+                    "size": 145652
+                },
+                {
+                    "start": 59.904,
+                    "end": 65.89866666666667,
+                    "url": "7ef958ce-8400-4a6a-9e57-1b0d5e92679e.mp4?pathsig=8c953e4f~QTK8kOBgKv0YgYzei381cCxuya_-pJfkogZMlChvxUY&r=dXM%3D&range=1455201-1600293",
+                    "size": 145092
+                },
+                {
+                    "start": 65.89866666666667,
+                    "end": 71.89333333333333,
+                    "url": "7ef958ce-8400-4a6a-9e57-1b0d5e92679e.mp4?pathsig=8c953e4f~QTK8kOBgKv0YgYzei381cCxuya_-pJfkogZMlChvxUY&r=dXM%3D&range=1600294-1745971",
+                    "size": 145677
+                },
+                {
+                    "start": 71.89333333333333,
+                    "end": 77.888,
+                    "url": "7ef958ce-8400-4a6a-9e57-1b0d5e92679e.mp4?pathsig=8c953e4f~QTK8kOBgKv0YgYzei381cCxuya_-pJfkogZMlChvxUY&r=dXM%3D&range=1745972-1891263",
+                    "size": 145291
+                },
+                {
+                    "start": 77.888,
+                    "end": 83.88266666666667,
+                    "url": "7ef958ce-8400-4a6a-9e57-1b0d5e92679e.mp4?pathsig=8c953e4f~QTK8kOBgKv0YgYzei381cCxuya_-pJfkogZMlChvxUY&r=dXM%3D&range=1891264-2036442",
+                    "size": 145178
+                },
+                {
+                    "start": 83.88266666666667,
+                    "end": 89.87733333333334,
+                    "url": "7ef958ce-8400-4a6a-9e57-1b0d5e92679e.mp4?pathsig=8c953e4f~QTK8kOBgKv0YgYzei381cCxuya_-pJfkogZMlChvxUY&r=dXM%3D&range=2036443-2182050",
+                    "size": 145607
+                },
+                {
+                    "start": 89.87733333333334,
+                    "end": 95.872,
+                    "url": "7ef958ce-8400-4a6a-9e57-1b0d5e92679e.mp4?pathsig=8c953e4f~QTK8kOBgKv0YgYzei381cCxuya_-pJfkogZMlChvxUY&r=dXM%3D&range=2182051-2327158",
+                    "size": 145107
+                },
+                {
+                    "start": 95.872,
+                    "end": 101.86666666666666,
+                    "url": "7ef958ce-8400-4a6a-9e57-1b0d5e92679e.mp4?pathsig=8c953e4f~QTK8kOBgKv0YgYzei381cCxuya_-pJfkogZMlChvxUY&r=dXM%3D&range=2327159-2472744",
+                    "size": 145585
+                },
+                {
+                    "start": 101.86666666666666,
+                    "end": 107.86133333333333,
+                    "url": "7ef958ce-8400-4a6a-9e57-1b0d5e92679e.mp4?pathsig=8c953e4f~QTK8kOBgKv0YgYzei381cCxuya_-pJfkogZMlChvxUY&r=dXM%3D&range=2472745-2617944",
+                    "size": 145199
+                },
+                {
+                    "start": 107.86133333333333,
+                    "end": 113.856,
+                    "url": "7ef958ce-8400-4a6a-9e57-1b0d5e92679e.mp4?pathsig=8c953e4f~QTK8kOBgKv0YgYzei381cCxuya_-pJfkogZMlChvxUY&r=dXM%3D&range=2617945-2763517",
+                    "size": 145572
+                },
+                {
+                    "start": 113.856,
+                    "end": 119.85066666666667,
+                    "url": "7ef958ce-8400-4a6a-9e57-1b0d5e92679e.mp4?pathsig=8c953e4f~QTK8kOBgKv0YgYzei381cCxuya_-pJfkogZMlChvxUY&r=dXM%3D&range=2763518-2908650",
+                    "size": 145132
+                },
+                {
+                    "start": 119.85066666666667,
+                    "end": 125.84533333333333,
+                    "url": "7ef958ce-8400-4a6a-9e57-1b0d5e92679e.mp4?pathsig=8c953e4f~QTK8kOBgKv0YgYzei381cCxuya_-pJfkogZMlChvxUY&r=dXM%3D&range=2908651-3054353",
+                    "size": 145702
+                },
+                {
+                    "start": 125.84533333333333,
+                    "end": 131.84,
+                    "url": "7ef958ce-8400-4a6a-9e57-1b0d5e92679e.mp4?pathsig=8c953e4f~QTK8kOBgKv0YgYzei381cCxuya_-pJfkogZMlChvxUY&r=dXM%3D&range=3054354-3199652",
+                    "size": 145298
+                },
+                {
+                    "start": 131.84,
+                    "end": 137.83466666666666,
+                    "url": "7ef958ce-8400-4a6a-9e57-1b0d5e92679e.mp4?pathsig=8c953e4f~QTK8kOBgKv0YgYzei381cCxuya_-pJfkogZMlChvxUY&r=dXM%3D&range=3199653-3345209",
+                    "size": 145556
+                },
+                {
+                    "start": 137.83466666666666,
+                    "end": 143.82933333333332,
+                    "url": "7ef958ce-8400-4a6a-9e57-1b0d5e92679e.mp4?pathsig=8c953e4f~QTK8kOBgKv0YgYzei381cCxuya_-pJfkogZMlChvxUY&r=dXM%3D&range=3345210-3490246",
+                    "size": 145036
+                },
+                {
+                    "start": 143.82933333333332,
+                    "end": 149.824,
+                    "url": "7ef958ce-8400-4a6a-9e57-1b0d5e92679e.mp4?pathsig=8c953e4f~QTK8kOBgKv0YgYzei381cCxuya_-pJfkogZMlChvxUY&r=dXM%3D&range=3490247-3635534",
+                    "size": 145287
+                },
+                {
+                    "start": 149.824,
+                    "end": 155.81866666666667,
+                    "url": "7ef958ce-8400-4a6a-9e57-1b0d5e92679e.mp4?pathsig=8c953e4f~QTK8kOBgKv0YgYzei381cCxuya_-pJfkogZMlChvxUY&r=dXM%3D&range=3635535-3780888",
+                    "size": 145353
+                },
+                {
+                    "start": 155.81866666666667,
+                    "end": 161.81333333333333,
+                    "url": "7ef958ce-8400-4a6a-9e57-1b0d5e92679e.mp4?pathsig=8c953e4f~QTK8kOBgKv0YgYzei381cCxuya_-pJfkogZMlChvxUY&r=dXM%3D&range=3780889-3926295",
+                    "size": 145406
+                },
+                {
+                    "start": 161.81333333333333,
+                    "end": 167.808,
+                    "url": "7ef958ce-8400-4a6a-9e57-1b0d5e92679e.mp4?pathsig=8c953e4f~QTK8kOBgKv0YgYzei381cCxuya_-pJfkogZMlChvxUY&r=dXM%3D&range=3926296-4071634",
+                    "size": 145338
+                },
+                {
+                    "start": 167.808,
+                    "end": 173.80266666666665,
+                    "url": "7ef958ce-8400-4a6a-9e57-1b0d5e92679e.mp4?pathsig=8c953e4f~QTK8kOBgKv0YgYzei381cCxuya_-pJfkogZMlChvxUY&r=dXM%3D&range=4071635-4217284",
+                    "size": 145649
+                },
+                {
+                    "start": 173.80266666666665,
+                    "end": 179.79733333333334,
+                    "url": "7ef958ce-8400-4a6a-9e57-1b0d5e92679e.mp4?pathsig=8c953e4f~QTK8kOBgKv0YgYzei381cCxuya_-pJfkogZMlChvxUY&r=dXM%3D&range=4217285-4362589",
+                    "size": 145304
+                },
+                {
+                    "start": 179.79733333333334,
+                    "end": 185.792,
+                    "url": "7ef958ce-8400-4a6a-9e57-1b0d5e92679e.mp4?pathsig=8c953e4f~QTK8kOBgKv0YgYzei381cCxuya_-pJfkogZMlChvxUY&r=dXM%3D&range=4362590-4507912",
+                    "size": 145322
+                },
+                {
+                    "start": 185.792,
+                    "end": 191.78666666666666,
+                    "url": "7ef958ce-8400-4a6a-9e57-1b0d5e92679e.mp4?pathsig=8c953e4f~QTK8kOBgKv0YgYzei381cCxuya_-pJfkogZMlChvxUY&r=dXM%3D&range=4507913-4653600",
+                    "size": 145687
+                },
+                {
+                    "start": 191.78666666666666,
+                    "end": 197.78133333333332,
+                    "url": "7ef958ce-8400-4a6a-9e57-1b0d5e92679e.mp4?pathsig=8c953e4f~QTK8kOBgKv0YgYzei381cCxuya_-pJfkogZMlChvxUY&r=dXM%3D&range=4653601-4798614",
+                    "size": 145013
+                },
+                {
+                    "start": 197.78133333333332,
+                    "end": 203.776,
+                    "url": "7ef958ce-8400-4a6a-9e57-1b0d5e92679e.mp4?pathsig=8c953e4f~QTK8kOBgKv0YgYzei381cCxuya_-pJfkogZMlChvxUY&r=dXM%3D&range=4798615-4943872",
+                    "size": 145257
+                },
+                {
+                    "start": 203.776,
+                    "end": 209.77066666666667,
+                    "url": "7ef958ce-8400-4a6a-9e57-1b0d5e92679e.mp4?pathsig=8c953e4f~QTK8kOBgKv0YgYzei381cCxuya_-pJfkogZMlChvxUY&r=dXM%3D&range=4943873-5089595",
+                    "size": 145722
+                },
+                {
+                    "start": 209.77066666666667,
+                    "end": 215.76533333333333,
+                    "url": "7ef958ce-8400-4a6a-9e57-1b0d5e92679e.mp4?pathsig=8c953e4f~QTK8kOBgKv0YgYzei381cCxuya_-pJfkogZMlChvxUY&r=dXM%3D&range=5089596-5234974",
+                    "size": 145378
+                },
+                {
+                    "start": 215.76533333333333,
+                    "end": 221.76,
+                    "url": "7ef958ce-8400-4a6a-9e57-1b0d5e92679e.mp4?pathsig=8c953e4f~QTK8kOBgKv0YgYzei381cCxuya_-pJfkogZMlChvxUY&r=dXM%3D&range=5234975-5380247",
+                    "size": 145272
+                },
+                {
+                    "start": 221.76,
+                    "end": 227.75466666666668,
+                    "url": "7ef958ce-8400-4a6a-9e57-1b0d5e92679e.mp4?pathsig=8c953e4f~QTK8kOBgKv0YgYzei381cCxuya_-pJfkogZMlChvxUY&r=dXM%3D&range=5380248-5525544",
+                    "size": 145296
+                },
+                {
+                    "start": 227.75466666666668,
+                    "end": 233.74933333333334,
+                    "url": "7ef958ce-8400-4a6a-9e57-1b0d5e92679e.mp4?pathsig=8c953e4f~QTK8kOBgKv0YgYzei381cCxuya_-pJfkogZMlChvxUY&r=dXM%3D&range=5525545-5670737",
+                    "size": 145192
+                },
+                {
+                    "start": 233.74933333333334,
+                    "end": 236.24533333333332,
+                    "url": "7ef958ce-8400-4a6a-9e57-1b0d5e92679e.mp4?pathsig=8c953e4f~QTK8kOBgKv0YgYzei381cCxuya_-pJfkogZMlChvxUY&r=dXM%3D&range=5670738-5731322",
+                    "size": 60584
+                }
+            ],
+            "audio_primary": true,
+            "AudioProvenance": 0
+        },
+        {
+            "id": "5f80979b-8d90-4dc8-89bc-e0f20695876c",
+            "avg_id": "635b8d57",
+            "base_url": "",
+            "format": "dash",
+            "mime_type": "audio/mp4",
+            "codecs": "opus",
+            "bitrate": 102000,
+            "avg_bitrate": 101000,
+            "duration": 236.24,
+            "channels": 2,
+            "sample_rate": 48000,
+            "max_segment_duration": 6,
+            "init_segment": "AAAAHGZ0eXBkYXNoAAAAAGRhc2htcDQyaXNvNgAAApZtb292AAAAbG12aGQAAAAA4RufS+Ebn0sAALuAAAAAAAABAAABAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAB5nRyYWsAAABcdGtoZAAAAAfhG59L4RufSwAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAQAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAACRlZHRzAAAAHGVsc3QAAAAAAAAAAQAAAAAAAAE4AAEAAAAAAV5tZGlhAAAAIG1kaGQAAAAA4RufS+Ebn0sAALuAAAAAAFXEAAAAAAA7aGRscgAAAAAAAAAAc291bgAAAAAAAAAAAAAAAFZpbWVvIElzb3BvZCBBdWRpbyBIYW5kbGVyAAAAAPttaW5mAAAAEHNtaGQAAAAAAAAAAAAAACRkaW5mAAAAHGRyZWYAAAAAAAAAAQAAAAx1cmwgAAAAAQAAAL9zdGJsAAAAR3N0c2QAAAAAAAAAAQAAADdPcHVzAAAAAAAAAAEAAAAAAAAAAAACABAAAAAAu4AAAAAAABNkT3BzAAIBOAAAu4AAAAAAAAAQc3R0cwAAAAAAAAAAAAAAEHN0c2MAAAAAAAAAAAAAABRzdHN6AAAAAAAAAAAAAAAAAAAAEHN0Y28AAAAAAAAAAAAAABhzZ3BkAQAAAHJvbGwAAAACAAAAAAAAABRzYmdwAAAAAHJvbGwAAAAAAAAAPG12ZXgAAAAUbWVoZAEAAAAAAAAAAK0IOAAAACB0cmV4AAAAAAAAAAEAAAABAAAAAQAAAAAAAQAA",
+            "index_segment": "5f80979b-8d90-4dc8-89bc-e0f20695876c.mp4?pathsig=8c953e4f~tEmQK_VphfJvTFLQi27hc-zints7htr58J9u0vL2UZo&r=dXM%3D&range=690-1201",
+            "segments": [
+                {
+                    "start": 0,
+                    "end": 5.9935,
+                    "url": "5f80979b-8d90-4dc8-89bc-e0f20695876c.mp4?pathsig=8c953e4f~tEmQK_VphfJvTFLQi27hc-zints7htr58J9u0vL2UZo&r=dXM%3D&range=1202-70361",
+                    "size": 69159
+                },
+                {
+                    "start": 5.9935,
+                    "end": 11.9935,
+                    "url": "5f80979b-8d90-4dc8-89bc-e0f20695876c.mp4?pathsig=8c953e4f~tEmQK_VphfJvTFLQi27hc-zints7htr58J9u0vL2UZo&r=dXM%3D&range=70362-146639",
+                    "size": 76277
+                },
+                {
+                    "start": 11.9935,
+                    "end": 17.9935,
+                    "url": "5f80979b-8d90-4dc8-89bc-e0f20695876c.mp4?pathsig=8c953e4f~tEmQK_VphfJvTFLQi27hc-zints7htr58J9u0vL2UZo&r=dXM%3D&range=146640-222449",
+                    "size": 75809
+                },
+                {
+                    "start": 17.9935,
+                    "end": 23.9935,
+                    "url": "5f80979b-8d90-4dc8-89bc-e0f20695876c.mp4?pathsig=8c953e4f~tEmQK_VphfJvTFLQi27hc-zints7htr58J9u0vL2UZo&r=dXM%3D&range=222450-298511",
+                    "size": 76061
+                },
+                {
+                    "start": 23.9935,
+                    "end": 29.9935,
+                    "url": "5f80979b-8d90-4dc8-89bc-e0f20695876c.mp4?pathsig=8c953e4f~tEmQK_VphfJvTFLQi27hc-zints7htr58J9u0vL2UZo&r=dXM%3D&range=298512-374625",
+                    "size": 76113
+                },
+                {
+                    "start": 29.9935,
+                    "end": 35.9935,
+                    "url": "5f80979b-8d90-4dc8-89bc-e0f20695876c.mp4?pathsig=8c953e4f~tEmQK_VphfJvTFLQi27hc-zints7htr58J9u0vL2UZo&r=dXM%3D&range=374626-450599",
+                    "size": 75973
+                },
+                {
+                    "start": 35.9935,
+                    "end": 41.9935,
+                    "url": "5f80979b-8d90-4dc8-89bc-e0f20695876c.mp4?pathsig=8c953e4f~tEmQK_VphfJvTFLQi27hc-zints7htr58J9u0vL2UZo&r=dXM%3D&range=450600-526719",
+                    "size": 76119
+                },
+                {
+                    "start": 41.9935,
+                    "end": 47.9935,
+                    "url": "5f80979b-8d90-4dc8-89bc-e0f20695876c.mp4?pathsig=8c953e4f~tEmQK_VphfJvTFLQi27hc-zints7htr58J9u0vL2UZo&r=dXM%3D&range=526720-602699",
+                    "size": 75979
+                },
+                {
+                    "start": 47.9935,
+                    "end": 53.9935,
+                    "url": "5f80979b-8d90-4dc8-89bc-e0f20695876c.mp4?pathsig=8c953e4f~tEmQK_VphfJvTFLQi27hc-zints7htr58J9u0vL2UZo&r=dXM%3D&range=602700-678831",
+                    "size": 76131
+                },
+                {
+                    "start": 53.9935,
+                    "end": 59.9935,
+                    "url": "5f80979b-8d90-4dc8-89bc-e0f20695876c.mp4?pathsig=8c953e4f~tEmQK_VphfJvTFLQi27hc-zints7htr58J9u0vL2UZo&r=dXM%3D&range=678832-754799",
+                    "size": 75967
+                },
+                {
+                    "start": 59.9935,
+                    "end": 65.9935,
+                    "url": "5f80979b-8d90-4dc8-89bc-e0f20695876c.mp4?pathsig=8c953e4f~tEmQK_VphfJvTFLQi27hc-zints7htr58J9u0vL2UZo&r=dXM%3D&range=754800-830973",
+                    "size": 76173
+                },
+                {
+                    "start": 65.9935,
+                    "end": 71.9935,
+                    "url": "5f80979b-8d90-4dc8-89bc-e0f20695876c.mp4?pathsig=8c953e4f~tEmQK_VphfJvTFLQi27hc-zints7htr58J9u0vL2UZo&r=dXM%3D&range=830974-907014",
+                    "size": 76040
+                },
+                {
+                    "start": 71.9935,
+                    "end": 77.9935,
+                    "url": "5f80979b-8d90-4dc8-89bc-e0f20695876c.mp4?pathsig=8c953e4f~tEmQK_VphfJvTFLQi27hc-zints7htr58J9u0vL2UZo&r=dXM%3D&range=907015-982949",
+                    "size": 75934
+                },
+                {
+                    "start": 77.9935,
+                    "end": 83.9935,
+                    "url": "5f80979b-8d90-4dc8-89bc-e0f20695876c.mp4?pathsig=8c953e4f~tEmQK_VphfJvTFLQi27hc-zints7htr58J9u0vL2UZo&r=dXM%3D&range=982950-1059239",
+                    "size": 76289
+                },
+                {
+                    "start": 83.9935,
+                    "end": 89.9935,
+                    "url": "5f80979b-8d90-4dc8-89bc-e0f20695876c.mp4?pathsig=8c953e4f~tEmQK_VphfJvTFLQi27hc-zints7htr58J9u0vL2UZo&r=dXM%3D&range=1059240-1135049",
+                    "size": 75809
+                },
+                {
+                    "start": 89.9935,
+                    "end": 95.9935,
+                    "url": "5f80979b-8d90-4dc8-89bc-e0f20695876c.mp4?pathsig=8c953e4f~tEmQK_VphfJvTFLQi27hc-zints7htr58J9u0vL2UZo&r=dXM%3D&range=1135050-1211169",
+                    "size": 76119
+                },
+                {
+                    "start": 95.9935,
+                    "end": 101.9935,
+                    "url": "5f80979b-8d90-4dc8-89bc-e0f20695876c.mp4?pathsig=8c953e4f~tEmQK_VphfJvTFLQi27hc-zints7htr58J9u0vL2UZo&r=dXM%3D&range=1211170-1287183",
+                    "size": 76013
+                },
+                {
+                    "start": 101.9935,
+                    "end": 107.9935,
+                    "url": "5f80979b-8d90-4dc8-89bc-e0f20695876c.mp4?pathsig=8c953e4f~tEmQK_VphfJvTFLQi27hc-zints7htr58J9u0vL2UZo&r=dXM%3D&range=1287184-1363199",
+                    "size": 76015
+                },
+                {
+                    "start": 107.9935,
+                    "end": 113.9935,
+                    "url": "5f80979b-8d90-4dc8-89bc-e0f20695876c.mp4?pathsig=8c953e4f~tEmQK_VphfJvTFLQi27hc-zints7htr58J9u0vL2UZo&r=dXM%3D&range=1363200-1439266",
+                    "size": 76066
+                },
+                {
+                    "start": 113.9935,
+                    "end": 119.9935,
+                    "url": "5f80979b-8d90-4dc8-89bc-e0f20695876c.mp4?pathsig=8c953e4f~tEmQK_VphfJvTFLQi27hc-zints7htr58J9u0vL2UZo&r=dXM%3D&range=1439267-1515306",
+                    "size": 76039
+                },
+                {
+                    "start": 119.9935,
+                    "end": 125.9935,
+                    "url": "5f80979b-8d90-4dc8-89bc-e0f20695876c.mp4?pathsig=8c953e4f~tEmQK_VphfJvTFLQi27hc-zints7htr58J9u0vL2UZo&r=dXM%3D&range=1515307-1591349",
+                    "size": 76042
+                },
+                {
+                    "start": 125.9935,
+                    "end": 131.9935,
+                    "url": "5f80979b-8d90-4dc8-89bc-e0f20695876c.mp4?pathsig=8c953e4f~tEmQK_VphfJvTFLQi27hc-zints7htr58J9u0vL2UZo&r=dXM%3D&range=1591350-1667460",
+                    "size": 76110
+                },
+                {
+                    "start": 131.9935,
+                    "end": 137.9935,
+                    "url": "5f80979b-8d90-4dc8-89bc-e0f20695876c.mp4?pathsig=8c953e4f~tEmQK_VphfJvTFLQi27hc-zints7htr58J9u0vL2UZo&r=dXM%3D&range=1667461-1743449",
+                    "size": 75988
+                },
+                {
+                    "start": 137.9935,
+                    "end": 143.9935,
+                    "url": "5f80979b-8d90-4dc8-89bc-e0f20695876c.mp4?pathsig=8c953e4f~tEmQK_VphfJvTFLQi27hc-zints7htr58J9u0vL2UZo&r=dXM%3D&range=1743450-1819567",
+                    "size": 76117
+                },
+                {
+                    "start": 143.9935,
+                    "end": 149.9935,
+                    "url": "5f80979b-8d90-4dc8-89bc-e0f20695876c.mp4?pathsig=8c953e4f~tEmQK_VphfJvTFLQi27hc-zints7htr58J9u0vL2UZo&r=dXM%3D&range=1819568-1895556",
+                    "size": 75988
+                },
+                {
+                    "start": 149.9935,
+                    "end": 155.9935,
+                    "url": "5f80979b-8d90-4dc8-89bc-e0f20695876c.mp4?pathsig=8c953e4f~tEmQK_VphfJvTFLQi27hc-zints7htr58J9u0vL2UZo&r=dXM%3D&range=1895557-1971688",
+                    "size": 76131
+                },
+                {
+                    "start": 155.9935,
+                    "end": 161.9935,
+                    "url": "5f80979b-8d90-4dc8-89bc-e0f20695876c.mp4?pathsig=8c953e4f~tEmQK_VphfJvTFLQi27hc-zints7htr58J9u0vL2UZo&r=dXM%3D&range=1971689-2047657",
+                    "size": 75968
+                },
+                {
+                    "start": 161.9935,
+                    "end": 167.9935,
+                    "url": "5f80979b-8d90-4dc8-89bc-e0f20695876c.mp4?pathsig=8c953e4f~tEmQK_VphfJvTFLQi27hc-zints7htr58J9u0vL2UZo&r=dXM%3D&range=2047658-2123741",
+                    "size": 76083
+                },
+                {
+                    "start": 167.9935,
+                    "end": 173.9935,
+                    "url": "5f80979b-8d90-4dc8-89bc-e0f20695876c.mp4?pathsig=8c953e4f~tEmQK_VphfJvTFLQi27hc-zints7htr58J9u0vL2UZo&r=dXM%3D&range=2123742-2199749",
+                    "size": 76007
+                },
+                {
+                    "start": 173.9935,
+                    "end": 179.9935,
+                    "url": "5f80979b-8d90-4dc8-89bc-e0f20695876c.mp4?pathsig=8c953e4f~tEmQK_VphfJvTFLQi27hc-zints7htr58J9u0vL2UZo&r=dXM%3D&range=2199750-2275799",
+                    "size": 76049
+                },
+                {
+                    "start": 179.9935,
+                    "end": 185.9935,
+                    "url": "5f80979b-8d90-4dc8-89bc-e0f20695876c.mp4?pathsig=8c953e4f~tEmQK_VphfJvTFLQi27hc-zints7htr58J9u0vL2UZo&r=dXM%3D&range=2275800-2352089",
+                    "size": 76289
+                },
+                {
+                    "start": 185.9935,
+                    "end": 191.9935,
+                    "url": "5f80979b-8d90-4dc8-89bc-e0f20695876c.mp4?pathsig=8c953e4f~tEmQK_VphfJvTFLQi27hc-zints7htr58J9u0vL2UZo&r=dXM%3D&range=2352090-2427961",
+                    "size": 75871
+                },
+                {
+                    "start": 191.9935,
+                    "end": 197.9935,
+                    "url": "5f80979b-8d90-4dc8-89bc-e0f20695876c.mp4?pathsig=8c953e4f~tEmQK_VphfJvTFLQi27hc-zints7htr58J9u0vL2UZo&r=dXM%3D&range=2427962-2503951",
+                    "size": 75989
+                },
+                {
+                    "start": 197.9935,
+                    "end": 203.9935,
+                    "url": "5f80979b-8d90-4dc8-89bc-e0f20695876c.mp4?pathsig=8c953e4f~tEmQK_VphfJvTFLQi27hc-zints7htr58J9u0vL2UZo&r=dXM%3D&range=2503952-2580112",
+                    "size": 76160
+                },
+                {
+                    "start": 203.9935,
+                    "end": 209.9935,
+                    "url": "5f80979b-8d90-4dc8-89bc-e0f20695876c.mp4?pathsig=8c953e4f~tEmQK_VphfJvTFLQi27hc-zints7htr58J9u0vL2UZo&r=dXM%3D&range=2580113-2656179",
+                    "size": 76066
+                },
+                {
+                    "start": 209.9935,
+                    "end": 215.9935,
+                    "url": "5f80979b-8d90-4dc8-89bc-e0f20695876c.mp4?pathsig=8c953e4f~tEmQK_VphfJvTFLQi27hc-zints7htr58J9u0vL2UZo&r=dXM%3D&range=2656180-2732100",
+                    "size": 75920
+                },
+                {
+                    "start": 215.9935,
+                    "end": 221.9935,
+                    "url": "5f80979b-8d90-4dc8-89bc-e0f20695876c.mp4?pathsig=8c953e4f~tEmQK_VphfJvTFLQi27hc-zints7htr58J9u0vL2UZo&r=dXM%3D&range=2732101-2808149",
+                    "size": 76048
+                },
+                {
+                    "start": 221.9935,
+                    "end": 227.9935,
+                    "url": "5f80979b-8d90-4dc8-89bc-e0f20695876c.mp4?pathsig=8c953e4f~tEmQK_VphfJvTFLQi27hc-zints7htr58J9u0vL2UZo&r=dXM%3D&range=2808150-2884199",
+                    "size": 76049
+                },
+                {
+                    "start": 227.9935,
+                    "end": 233.9935,
+                    "url": "5f80979b-8d90-4dc8-89bc-e0f20695876c.mp4?pathsig=8c953e4f~tEmQK_VphfJvTFLQi27hc-zints7htr58J9u0vL2UZo&r=dXM%3D&range=2884200-2960456",
+                    "size": 76256
+                },
+                {
+                    "start": 233.9935,
+                    "end": 236.24,
+                    "url": "5f80979b-8d90-4dc8-89bc-e0f20695876c.mp4?pathsig=8c953e4f~tEmQK_VphfJvTFLQi27hc-zints7htr58J9u0vL2UZo&r=dXM%3D&range=2960457-2989026",
+                    "size": 28569
+                }
+            ],
+            "audio_primary": true,
+            "AudioProvenance": 0
+        },
+        {
+            "id": "32733183-b471-4b1d-82be-d3e7cd6c2967",
+            "avg_id": "635b8d57",
+            "base_url": "",
+            "format": "dash",
+            "mime_type": "audio/mp4",
+            "codecs": "opus",
+            "bitrate": 70000,
+            "avg_bitrate": 69000,
+            "duration": 236.24,
+            "channels": 2,
+            "sample_rate": 48000,
+            "max_segment_duration": 6,
+            "init_segment": "AAAAHGZ0eXBkYXNoAAAAAGRhc2htcDQyaXNvNgAAApZtb292AAAAbG12aGQAAAAA4RufF+EbnxcAALuAAAAAAAABAAABAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAB5nRyYWsAAABcdGtoZAAAAAfhG58X4RufFwAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAQAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAACRlZHRzAAAAHGVsc3QAAAAAAAAAAQAAAAAAAAE4AAEAAAAAAV5tZGlhAAAAIG1kaGQAAAAA4RufF+EbnxcAALuAAAAAAFXEAAAAAAA7aGRscgAAAAAAAAAAc291bgAAAAAAAAAAAAAAAFZpbWVvIElzb3BvZCBBdWRpbyBIYW5kbGVyAAAAAPttaW5mAAAAEHNtaGQAAAAAAAAAAAAAACRkaW5mAAAAHGRyZWYAAAAAAAAAAQAAAAx1cmwgAAAAAQAAAL9zdGJsAAAAR3N0c2QAAAAAAAAAAQAAADdPcHVzAAAAAAAAAAEAAAAAAAAAAAACABAAAAAAu4AAAAAAABNkT3BzAAIBOAAAu4AAAAAAAAAQc3R0cwAAAAAAAAAAAAAAEHN0c2MAAAAAAAAAAAAAABRzdHN6AAAAAAAAAAAAAAAAAAAAEHN0Y28AAAAAAAAAAAAAABhzZ3BkAQAAAHJvbGwAAAACAAAAAAAAABRzYmdwAAAAAHJvbGwAAAAAAAAAPG12ZXgAAAAUbWVoZAEAAAAAAAAAAK0IOAAAACB0cmV4AAAAAAAAAAEAAAABAAAAAQAAAAAAAQAA",
+            "index_segment": "32733183-b471-4b1d-82be-d3e7cd6c2967.mp4?pathsig=8c953e4f~UNztAgdhPne4MGBWvI8N7w2IhMuUXhzADmAqlvg34yE&r=dXM%3D&range=690-1201",
+            "segments": [
+                {
+                    "start": 0,
+                    "end": 5.9935,
+                    "url": "32733183-b471-4b1d-82be-d3e7cd6c2967.mp4?pathsig=8c953e4f~UNztAgdhPne4MGBWvI8N7w2IhMuUXhzADmAqlvg34yE&r=dXM%3D&range=1202-48694",
+                    "size": 47492
+                },
+                {
+                    "start": 5.9935,
+                    "end": 11.9935,
+                    "url": "32733183-b471-4b1d-82be-d3e7cd6c2967.mp4?pathsig=8c953e4f~UNztAgdhPne4MGBWvI8N7w2IhMuUXhzADmAqlvg34yE&r=dXM%3D&range=48695-100879",
+                    "size": 52184
+                },
+                {
+                    "start": 11.9935,
+                    "end": 17.9935,
+                    "url": "32733183-b471-4b1d-82be-d3e7cd6c2967.mp4?pathsig=8c953e4f~UNztAgdhPne4MGBWvI8N7w2IhMuUXhzADmAqlvg34yE&r=dXM%3D&range=100880-152769",
+                    "size": 51889
+                },
+                {
+                    "start": 17.9935,
+                    "end": 23.9935,
+                    "url": "32733183-b471-4b1d-82be-d3e7cd6c2967.mp4?pathsig=8c953e4f~UNztAgdhPne4MGBWvI8N7w2IhMuUXhzADmAqlvg34yE&r=dXM%3D&range=152770-204878",
+                    "size": 52108
+                },
+                {
+                    "start": 23.9935,
+                    "end": 29.9935,
+                    "url": "32733183-b471-4b1d-82be-d3e7cd6c2967.mp4?pathsig=8c953e4f~UNztAgdhPne4MGBWvI8N7w2IhMuUXhzADmAqlvg34yE&r=dXM%3D&range=204879-256894",
+                    "size": 52015
+                },
+                {
+                    "start": 29.9935,
+                    "end": 35.9935,
+                    "url": "32733183-b471-4b1d-82be-d3e7cd6c2967.mp4?pathsig=8c953e4f~UNztAgdhPne4MGBWvI8N7w2IhMuUXhzADmAqlvg34yE&r=dXM%3D&range=256895-308919",
+                    "size": 52024
+                },
+                {
+                    "start": 35.9935,
+                    "end": 41.9935,
+                    "url": "32733183-b471-4b1d-82be-d3e7cd6c2967.mp4?pathsig=8c953e4f~UNztAgdhPne4MGBWvI8N7w2IhMuUXhzADmAqlvg34yE&r=dXM%3D&range=308920-360990",
+                    "size": 52070
+                },
+                {
+                    "start": 41.9935,
+                    "end": 47.9935,
+                    "url": "32733183-b471-4b1d-82be-d3e7cd6c2967.mp4?pathsig=8c953e4f~UNztAgdhPne4MGBWvI8N7w2IhMuUXhzADmAqlvg34yE&r=dXM%3D&range=360991-413019",
+                    "size": 52028
+                },
+                {
+                    "start": 47.9935,
+                    "end": 53.9935,
+                    "url": "32733183-b471-4b1d-82be-d3e7cd6c2967.mp4?pathsig=8c953e4f~UNztAgdhPne4MGBWvI8N7w2IhMuUXhzADmAqlvg34yE&r=dXM%3D&range=413020-465098",
+                    "size": 52078
+                },
+                {
+                    "start": 53.9935,
+                    "end": 59.9935,
+                    "url": "32733183-b471-4b1d-82be-d3e7cd6c2967.mp4?pathsig=8c953e4f~UNztAgdhPne4MGBWvI8N7w2IhMuUXhzADmAqlvg34yE&r=dXM%3D&range=465099-517172",
+                    "size": 52073
+                },
+                {
+                    "start": 59.9935,
+                    "end": 65.9935,
+                    "url": "32733183-b471-4b1d-82be-d3e7cd6c2967.mp4?pathsig=8c953e4f~UNztAgdhPne4MGBWvI8N7w2IhMuUXhzADmAqlvg34yE&r=dXM%3D&range=517173-569329",
+                    "size": 52156
+                },
+                {
+                    "start": 65.9935,
+                    "end": 71.9935,
+                    "url": "32733183-b471-4b1d-82be-d3e7cd6c2967.mp4?pathsig=8c953e4f~UNztAgdhPne4MGBWvI8N7w2IhMuUXhzADmAqlvg34yE&r=dXM%3D&range=569330-621293",
+                    "size": 51963
+                },
+                {
+                    "start": 71.9935,
+                    "end": 77.9935,
+                    "url": "32733183-b471-4b1d-82be-d3e7cd6c2967.mp4?pathsig=8c953e4f~UNztAgdhPne4MGBWvI8N7w2IhMuUXhzADmAqlvg34yE&r=dXM%3D&range=621294-673269",
+                    "size": 51975
+                },
+                {
+                    "start": 77.9935,
+                    "end": 83.9935,
+                    "url": "32733183-b471-4b1d-82be-d3e7cd6c2967.mp4?pathsig=8c953e4f~UNztAgdhPne4MGBWvI8N7w2IhMuUXhzADmAqlvg34yE&r=dXM%3D&range=673270-725479",
+                    "size": 52209
+                },
+                {
+                    "start": 83.9935,
+                    "end": 89.9935,
+                    "url": "32733183-b471-4b1d-82be-d3e7cd6c2967.mp4?pathsig=8c953e4f~UNztAgdhPne4MGBWvI8N7w2IhMuUXhzADmAqlvg34yE&r=dXM%3D&range=725480-777369",
+                    "size": 51889
+                },
+                {
+                    "start": 89.9935,
+                    "end": 95.9935,
+                    "url": "32733183-b471-4b1d-82be-d3e7cd6c2967.mp4?pathsig=8c953e4f~UNztAgdhPne4MGBWvI8N7w2IhMuUXhzADmAqlvg34yE&r=dXM%3D&range=777370-829464",
+                    "size": 52094
+                },
+                {
+                    "start": 95.9935,
+                    "end": 101.9935,
+                    "url": "32733183-b471-4b1d-82be-d3e7cd6c2967.mp4?pathsig=8c953e4f~UNztAgdhPne4MGBWvI8N7w2IhMuUXhzADmAqlvg34yE&r=dXM%3D&range=829465-881523",
+                    "size": 52058
+                },
+                {
+                    "start": 101.9935,
+                    "end": 107.9935,
+                    "url": "32733183-b471-4b1d-82be-d3e7cd6c2967.mp4?pathsig=8c953e4f~UNztAgdhPne4MGBWvI8N7w2IhMuUXhzADmAqlvg34yE&r=dXM%3D&range=881524-933519",
+                    "size": 51995
+                },
+                {
+                    "start": 107.9935,
+                    "end": 113.9935,
+                    "url": "32733183-b471-4b1d-82be-d3e7cd6c2967.mp4?pathsig=8c953e4f~UNztAgdhPne4MGBWvI8N7w2IhMuUXhzADmAqlvg34yE&r=dXM%3D&range=933520-985569",
+                    "size": 52049
+                },
+                {
+                    "start": 113.9935,
+                    "end": 119.9935,
+                    "url": "32733183-b471-4b1d-82be-d3e7cd6c2967.mp4?pathsig=8c953e4f~UNztAgdhPne4MGBWvI8N7w2IhMuUXhzADmAqlvg34yE&r=dXM%3D&range=985570-1037619",
+                    "size": 52049
+                },
+                {
+                    "start": 119.9935,
+                    "end": 125.9935,
+                    "url": "32733183-b471-4b1d-82be-d3e7cd6c2967.mp4?pathsig=8c953e4f~UNztAgdhPne4MGBWvI8N7w2IhMuUXhzADmAqlvg34yE&r=dXM%3D&range=1037620-1089669",
+                    "size": 52049
+                },
+                {
+                    "start": 125.9935,
+                    "end": 131.9935,
+                    "url": "32733183-b471-4b1d-82be-d3e7cd6c2967.mp4?pathsig=8c953e4f~UNztAgdhPne4MGBWvI8N7w2IhMuUXhzADmAqlvg34yE&r=dXM%3D&range=1089670-1141820",
+                    "size": 52150
+                },
+                {
+                    "start": 131.9935,
+                    "end": 137.9935,
+                    "url": "32733183-b471-4b1d-82be-d3e7cd6c2967.mp4?pathsig=8c953e4f~UNztAgdhPne4MGBWvI8N7w2IhMuUXhzADmAqlvg34yE&r=dXM%3D&range=1141821-1193803",
+                    "size": 51982
+                },
+                {
+                    "start": 137.9935,
+                    "end": 143.9935,
+                    "url": "32733183-b471-4b1d-82be-d3e7cd6c2967.mp4?pathsig=8c953e4f~UNztAgdhPne4MGBWvI8N7w2IhMuUXhzADmAqlvg34yE&r=dXM%3D&range=1193804-1245865",
+                    "size": 52061
+                },
+                {
+                    "start": 143.9935,
+                    "end": 149.9935,
+                    "url": "32733183-b471-4b1d-82be-d3e7cd6c2967.mp4?pathsig=8c953e4f~UNztAgdhPne4MGBWvI8N7w2IhMuUXhzADmAqlvg34yE&r=dXM%3D&range=1245866-1297872",
+                    "size": 52006
+                },
+                {
+                    "start": 149.9935,
+                    "end": 155.9935,
+                    "url": "32733183-b471-4b1d-82be-d3e7cd6c2967.mp4?pathsig=8c953e4f~UNztAgdhPne4MGBWvI8N7w2IhMuUXhzADmAqlvg34yE&r=dXM%3D&range=1297873-1349984",
+                    "size": 52111
+                },
+                {
+                    "start": 155.9935,
+                    "end": 161.9935,
+                    "url": "32733183-b471-4b1d-82be-d3e7cd6c2967.mp4?pathsig=8c953e4f~UNztAgdhPne4MGBWvI8N7w2IhMuUXhzADmAqlvg34yE&r=dXM%3D&range=1349985-1401969",
+                    "size": 51984
+                },
+                {
+                    "start": 161.9935,
+                    "end": 167.9935,
+                    "url": "32733183-b471-4b1d-82be-d3e7cd6c2967.mp4?pathsig=8c953e4f~UNztAgdhPne4MGBWvI8N7w2IhMuUXhzADmAqlvg34yE&r=dXM%3D&range=1401970-1454019",
+                    "size": 52049
+                },
+                {
+                    "start": 167.9935,
+                    "end": 173.9935,
+                    "url": "32733183-b471-4b1d-82be-d3e7cd6c2967.mp4?pathsig=8c953e4f~UNztAgdhPne4MGBWvI8N7w2IhMuUXhzADmAqlvg34yE&r=dXM%3D&range=1454020-1506069",
+                    "size": 52049
+                },
+                {
+                    "start": 173.9935,
+                    "end": 179.9935,
+                    "url": "32733183-b471-4b1d-82be-d3e7cd6c2967.mp4?pathsig=8c953e4f~UNztAgdhPne4MGBWvI8N7w2IhMuUXhzADmAqlvg34yE&r=dXM%3D&range=1506070-1558209",
+                    "size": 52139
+                },
+                {
+                    "start": 179.9935,
+                    "end": 185.9935,
+                    "url": "32733183-b471-4b1d-82be-d3e7cd6c2967.mp4?pathsig=8c953e4f~UNztAgdhPne4MGBWvI8N7w2IhMuUXhzADmAqlvg34yE&r=dXM%3D&range=1558210-1610329",
+                    "size": 52119
+                },
+                {
+                    "start": 185.9935,
+                    "end": 191.9935,
+                    "url": "32733183-b471-4b1d-82be-d3e7cd6c2967.mp4?pathsig=8c953e4f~UNztAgdhPne4MGBWvI8N7w2IhMuUXhzADmAqlvg34yE&r=dXM%3D&range=1610330-1662347",
+                    "size": 52017
+                },
+                {
+                    "start": 191.9935,
+                    "end": 197.9935,
+                    "url": "32733183-b471-4b1d-82be-d3e7cd6c2967.mp4?pathsig=8c953e4f~UNztAgdhPne4MGBWvI8N7w2IhMuUXhzADmAqlvg34yE&r=dXM%3D&range=1662348-1714379",
+                    "size": 52031
+                },
+                {
+                    "start": 197.9935,
+                    "end": 203.9935,
+                    "url": "32733183-b471-4b1d-82be-d3e7cd6c2967.mp4?pathsig=8c953e4f~UNztAgdhPne4MGBWvI8N7w2IhMuUXhzADmAqlvg34yE&r=dXM%3D&range=1714380-1766479",
+                    "size": 52099
+                },
+                {
+                    "start": 203.9935,
+                    "end": 209.9935,
+                    "url": "32733183-b471-4b1d-82be-d3e7cd6c2967.mp4?pathsig=8c953e4f~UNztAgdhPne4MGBWvI8N7w2IhMuUXhzADmAqlvg34yE&r=dXM%3D&range=1766480-1818513",
+                    "size": 52033
+                },
+                {
+                    "start": 209.9935,
+                    "end": 215.9935,
+                    "url": "32733183-b471-4b1d-82be-d3e7cd6c2967.mp4?pathsig=8c953e4f~UNztAgdhPne4MGBWvI8N7w2IhMuUXhzADmAqlvg34yE&r=dXM%3D&range=1818514-1870419",
+                    "size": 51905
+                },
+                {
+                    "start": 215.9935,
+                    "end": 221.9935,
+                    "url": "32733183-b471-4b1d-82be-d3e7cd6c2967.mp4?pathsig=8c953e4f~UNztAgdhPne4MGBWvI8N7w2IhMuUXhzADmAqlvg34yE&r=dXM%3D&range=1870420-1922469",
+                    "size": 52049
+                },
+                {
+                    "start": 221.9935,
+                    "end": 227.9935,
+                    "url": "32733183-b471-4b1d-82be-d3e7cd6c2967.mp4?pathsig=8c953e4f~UNztAgdhPne4MGBWvI8N7w2IhMuUXhzADmAqlvg34yE&r=dXM%3D&range=1922470-1974519",
+                    "size": 52049
+                },
+                {
+                    "start": 227.9935,
+                    "end": 233.9935,
+                    "url": "32733183-b471-4b1d-82be-d3e7cd6c2967.mp4?pathsig=8c953e4f~UNztAgdhPne4MGBWvI8N7w2IhMuUXhzADmAqlvg34yE&r=dXM%3D&range=1974520-2026646",
+                    "size": 52126
+                },
+                {
+                    "start": 233.9935,
+                    "end": 236.24,
+                    "url": "32733183-b471-4b1d-82be-d3e7cd6c2967.mp4?pathsig=8c953e4f~UNztAgdhPne4MGBWvI8N7w2IhMuUXhzADmAqlvg34yE&r=dXM%3D&range=2026647-2046296",
+                    "size": 19649
+                }
+            ],
+            "audio_primary": true,
+            "AudioProvenance": 0
+        }
+    ]
+}
